@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400i,700,900" type="text/css">
+<link rel="stylesheet" type="text/css" href="styles.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script src="scripts.js"></script>
+</head>
+<body>
+
+<aside class="topHeader">
+	<div class="logo"><img src="images/logo.png" height="42" style="vertical-align:middle;margin-bottom:12px;margin-right:4px;"/>Magic Skim</div>
+	<div class="headerTitle">The Art of Not Being Goverened</div>
+	<!-- <div class="profile"></div> -->
+	<div class="progress" id="progress"></div>
+</aside>
+
+<div class="mainContent">
+	<header class="articleHeader">
+		<div class="titles">
+			<h1 class="title">The Art of Not Being Goverened</h1>
+			<h2 class="subtitle">
+				<div class="leftInfo">Difficulty: <div class="difficulty value" id="difficulty">75</div></div>
+				<div class="rightInfo">
+					Full reading time: <div class="value">27 min</div>
+					<br />
+					Reduced reading time: <div class="value">11 min (-60%)</div>
+				</div>
+			</h2>
+		</div>
+	</header>
+
+	<div class="articleText">
+
+		<center>
+			<div class="autoSummary">
+				<h3 style="margin-top:12px;text-align:center;margin-bottom:0px;">Background Resources</h3>
+				<div class="subtitle" style="text-align:center;font-style:italic;">These articles look similar to your reading</div>
+				<ul class="summary">
+					<li><a href="#">Southeast Asia</a></li>
+					<li><a href="#">Naypyidaw</a></li>
+					<li><a href="#">Tuk Revolution</a></li>
+				</ul>
+			</div>
+		</center>
+
+		<table>
+			<tr>
+				<td class="buttons">
+					<div class="expand" onclick="switchVersion('0')" id="e0"><img src="images/expand.svg" class="expandImage"/></div>
+				</td>
+				<td>
+					<p>
+					<div class="first" id="f0">Lorem ipsum dolor sit amet, <b>consectetur</b> adipiscing elit.</div>
+					<div class="spacer" id="s0"></div>
+					<div class="middle" id="m0">Nam fermentum, dui a consequat posuere, felis orci hendrerit orci, non varius diam lectus at arcu. Nam scelerisque elementum nulla, eget viverra lacus pulvinar sed. Suspendisse finibus nunc et nisl tincidunt, et tincidunt nunc congue. Integer ultricies tortor turpis, vel pellentesque est congue ac. Nullam pretium dui gravida lectus pulvinar, quis tincidunt arcu dictum. Aliquam et pellentesque diam, in iaculis risus. Pellentesque rutrum vulputate sapien nec blandit. Ut aliquam dui purus, id malesuada ipsum eleifend ut. Pellentesque blandit quam urna, quis suscipit justo mattis ut. In volutpat facilisis lobortis. Vestibulum id mollis nisl. Nunc metus erat, fermentum et mauris eget, maximus condimentum lectus. Maecenas augue dui, venenatis a convallis vel, auctor sit amet orci. </div>
+					<div class="last" id="l0">Nulla blandit vitae libero ac tincidunt.</div>
+					</p>
+				</td>
+			</tr>
+			<tr>
+				<td class="buttons">
+					<div class="expand" onclick="switchVersion('1')" id="e1"><img src="images/expand.svg" class="expandImage"/></div>
+				</td>
+				<td>
+					<p>Curabitur a felis sodales, scelerisque ligula ac, vulputate risus. Aliquam tempus felis turpis, vel rhoncus est rhoncus commodo. Donec consectetur purus at elementum condimentum.</p>
+				</td>
+			</tr>
+			<tr>
+				<td class="buttons">
+					<div class="expand" onclick="switchVersion('1')" id="e1"><img src="images/expand.svg" class="expandImage"/></div>
+				</td>
+				<td>
+					<p>Curabitur a felis sodales, scelerisque ligula ac, vulputate risus. Aliquam tempus felis turpis, vel rhoncus est rhoncus commodo. Donec consectetur purus at elementum condimentum.</p>
+				</td>
+			</tr>
+			<tr>
+				<td class="buttons">
+					<div class="expand" onclick="switchVersion('1')" id="e1"><img src="images/expand.svg" class="expandImage"/></div>
+				</td>
+				<td>
+					<p>Curabitur a felis sodales, scelerisque ligula ac, vulputate risus. Aliquam tempus felis turpis, vel rhoncus est rhoncus commodo. Donec consectetur purus at elementum condimentum.</p>
+				</td>
+			</tr>
+			<tr>
+				<td class="buttons">
+					<div class="expand" onclick="switchVersion('1')" id="e1"><img src="images/expand.svg" class="expandImage"/></div>
+				</td>
+				<td>
+					<p>Curabitur a felis sodales, scelerisque ligula ac, vulputate risus. Aliquam tempus felis turpis, vel rhoncus est rhoncus commodo. Donec consectetur purus at elementum condimentum.</p>
+				</td>
+			</tr>
+		</table>
+
+	</div>
+</div>
+
+<aside class="leftColumn">
+	<section class="backLink">
+		<a href="#">
+		<img src="images/back.svg" height="14" style="vertical-align:middle;margin-right:4px;margin-bottom:2px;"/>
+		Back</a>
+	</section>
+
+	<header class="topLevel">
+		<div class="tooltip">
+		Key words
+		<span class="tooltiptext">Sentances containing key words will always be shown</span>
+		</div>
+	</header>
+	<div class="sidebarList">
+		<ul>
+			<li>Zomia</li>
+			<li><div class="keyword">Tuk<div class="infobox">Info</div></div></li>
+			<li>Revolution</li>
+			<li>Vietnam</li>
+			<li>Thailand</li>
+			<li class="addKeyword"><b>+</b>&nbsp;Add your own</li>
+		</ul>
+	</div>
+
+</aside>
+
+</body>
+</html>

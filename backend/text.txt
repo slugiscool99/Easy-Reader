@@ -1,0 +1,1823 @@
+
+An Introduction to Zomia
+I open with three diagnostic expressions offrustration. The first two are
+from would-be conquering administrators, determined to subdue a recalcitrant landscape and its fugitive, resistant inhabitants. The third,
+from a different continent, is from a would~be conqueror of souls, in
+some despair at the irreligion and heterodoxy that the landscape appears to
+encourage:
+Making maps is hard, but mapping Guizhou province especially so The
+land in southern Guizhou has fragmented and confused boundaries A department or a county may be split into several subsections, in many instances
+separated by other departments or counties. . . . There are also regions of no
+man's land where the Miao live intermixed with the Chinese....
+Southern Guizhou has a multitude ofmountain peaks. They are jumbled
+together, without any plains or marshes to space them out, or rivers or water
+courses to put limits to them.,They are vexingly numerous and ill-disciplined.
+. . . Very few people dwell among them, and generally the peaks do not have
+names. Their configurations are difficult to discern clearly, ridges and summits
+seeming to be the same. Those who give an account of the arterial pattern, of
+the mountains are thus obliged to speak at length. In some cases, to descdbe a
+few kilometers oframifications needs a pile ofdocumentation, and dealing with
+the main line of a day's march takes a sequence of chapters.
+As to the confusion ofthe local patois, in the space of fifty kilometers a
+river may have fifty names and an encampment covering a kilometer and a half
+may have three designations. Such is the unreliability of the nomenclature.l
+The hilly and jungly tracts were those in which the dacoits held out longest. Such were [sz'c] the country between Minbu and Thayetmyo and the terai
+[swampy lowland belt] at the foot of the Shan Hills and the Arakan and Chin
+Hills. Here pursuit was impossible. The tracts are narrow and tortuous and admirably suited for ambuscades. Except by the regular paths there were hardly
+any means of approach; the jungle malaria was fatal to our troops; a column
+could only penetrate the jungle and move on. The villages are small and far
+between; they are generally compact and surrounded by dense, impenetrable
+jungle. The paths were either just broad enough for a cart, or very narrow, and,
+where they led through the jungle were overhung with brambles and thorny
+creepers. A good deal of the dry grass is burned in March, but as soon as the
+rains recommence the whole once more becomes impassible.2
+The surface has been minutely trenched by winding streams. So numerous are
+the creeks that the topographical map of a single representative county of 373
+square miles indicated 339 named streams, that is, nine streams for each ten
+square miles. The valleys are for the most part "V"-shaped, with rarely more
+level space along the banks ofa stream for a cabin and perhaps a garden patch.
+. . . The isolation occasioned by methods of travel so slow and difficult is intensified by several circumstances. For one thing, the routes are round-about.
+Travel is either down one branch along a creek and up another branch, or up
+a stream to a divide and down another stream on the further side ofthe ridge.
+This being the case, married women living within ten miles of their parents
+have passed a dozen years without going back to see them.3
+Behind each lament lies a particular project of rule: Han rule under
+the Q!ng, British rule within the Empire, and finally, the rule of orthodox
+Protestant Christianity in Appalachia. All would style themselves, unselfconsciously, as bearers oforder, progress, enlightenment, and civilization. All
+wished to extend the advantages of administrative discipline, associated with
+the state or organized religion, to areas previously ungoverned.
+How might we best understand the fraught dialectical relations between
+such projects ofrule and their agents, on the one hand, and zones of relativ~
+autonomy and their inhabitants, on the other? This relationship is particularly salient in mainland Southeast Asia, where it demarcates the greatest
+social cleavage that shapes much of the region's history: that between hill
+peoples and valley peoples or between upstream (hulu in the Malay world)
+and downstream (hilir) peoples.4 In tracing this dialectic with some care, I
+believe it also traces a path to a novel historical understanding of the global
+process ofstate formation in the valleys and the peopling ofthe hills.
+I "
+HILLS, VALLEYS, AND STAT'ES 3
+The encounter between expansionary states and self-governing peoples
+is hardly confined to Southeast Asia. It is echoed in the cultural and administrative process of "internal colonialism" that characterizes the formation of
+most modern Western, nation;..states; in the imperial projects of the Romans,
+the Hapsburgs, the Ottomans, the Han, and the British; in the subjugation
+of indigenous peoples in "white-settler" colonies such as the United States,
+Canada, South Africa, Australia, and Algeria; in the dialectic between sedentary, town-dwelling Arabs<and nomadic pastoralists that have characterized
+much of Middle Easterrt history.5 The precise shape ofthe encounters is,
+to be sure, unique to each case. Nevertheless, the ubiquity of the encounter
+between self-governing and state-governed peoples-variously styled as the
+raw and the cooked, the wild and the tamed, the hill/forest people and
+the valley/cleared-land people, upstream and downstream, the barbarian and
+the civilized, the backward and the modern, the free and the bound, the
+people without history ,and the people with history- provides us with many
+possibilities for comparative triangulation. We shall take advantage of these
+opportunities where we can.
+A World of Peripheries
+In the written record - that is to say, from the beginning of grain-based,
+agrarian civilizations-the encounter we are examining can fairly be said to
+preoccupy rulers. But if we stand back and widen the historical lens still
+further, seeing the encounter in human rather than state-civilization terms,
+it is astonishing how recent and rapid the encounter has been. Homo sapiens
+sapiens has been around for something like two hundred thousand years, and
+only about sixty thousand, at the outside, in Southeast Asia. There the region's first small concentrations of sedentary populations appear not earlier
+than the first millennium before the common era (CE) and represent a mere
+smudge in the historical landscape -localized, tenuous, and evanescent.
+Until shortly before the common era, the very last I percent of human history, the social landscape consisted of elementary, self-governing, kinship
+units that might, occasionally, cooperate in hunting, feasting, skirmishing,
+trading, and peacemaking. It did not contain anytp.ing one could call a state.6
+In other words, living in the absence ofstate structures has been the standard
+human condition.
+The founding of agrarian states, then, was the contingent event that
+created a distinction, hence a diaiectic, between a settled, state-governed
+4 
+population and a frontier penumbra of less governed or virtually autonomous peoples. Until at least the early nineteenth century, the difficulties of
+transportation, the state of military technology, and, above all, demographic
+realities placed sharp limits on the reach of even the most ambitious states.'
+Operating in a population density of only 5.5 persons per square kilometer
+in r600 (compared with roughly 35 for India and China), a ruler's subjects in
+Southeast Asia had relatively easy access to a vast, land-rich frontier? That
+frontier operated as a rough and ready homeostatic device; the more a state
+pressed its subjects, the fewer subjects it had. The frontier underwrote popular freedom. Richard O'Connor captures this dialectic nicely: "Once states
+appeared, adaptive conditions changed yet again-at least for farmers. At
+that moment, mobility allowed farmers to escape the impositions ofstates
+and their wars. I call this tertiary dispersion. The other two revolutionsagriculture and complex society-were secure but the state's domination of.
+its peasantry was not, and so we find a strategy of 'collecting people ... and
+establishing villages.'"8
+The Last Enclosure
+Only the modern state, in both its colonial and its independent guises, has
+had the resources to realize a project of rule that was a mere glint in the eye
+of its precolonial ancestor: namely to bring nonstate spaces and people to
+. heel. This project in its broadest sense represents the last great enclosure
+movement in Southeast Asia. It has been pursued-albeit clumsily and with
+setbacks-consistently for at least the past century. Governments, whether
+colonial or independent, communist or neoliberal, populist or authoritarian,
+have embraced it fully. The headlong pursuit ofthis end by regimes otherwise
+starkly different suggests that such projects of administrative, economic, and
+cultural standardization are hard-wired into the architecture of the modern
+state itself.
+Seen from the stat~ center, this enclosure movement is, in part, an effort
+to integrate and monetize the people, lands, and resources ofthe periphery so
+that they become, to use the French term, rentable-auditable contributors
+to the gross national product and to foreign exchange. In truth, peripheral
+peoples had always been firmly linked economically to the lowlands and to
+world trade. In some cases, they appear to have provided most ofthe products
+valued in international commerce. Nevertheless, the attempt to fully incorporate them has been culturally styled as development, economic progress,
+! ,:
+ 5
+literacy, and social integration. In practice, it has meant something else. The
+objective has been less to,.make them productive than to ensure that their
+economic activity was legible, taxable, assessable, and confiscatable or, failing that, to replace it with forms of production that were. Everywhere they
+could, states have obliged mobile, swidden cultivators to settle in permanent
+villages. They have tried to replace open common-property land tenure with
+closed common property: collective farms or, more especially, the'individual
+freehold property oflibtrrat'(economies. They have seized timber and mineral
+resources for the national patrimony. They have encouraged, whenever possible, cash, monocropping, plantation-style agriculture in place of the more
+biodiverse forms of cultiv~tion that prevailed earlier. The term enclosure
+seems entirely appropriate for this process, mimicking as it does the English
+enclosures that, in the century after r76r, swallowed half of England's common arable land in favor oflarge-scale, private, commercial prodaction.
+The novel and revolutionary aspect of this great enclosure movement
+is apparent if we open our historical lens to its widest aperture. The very
+earliest states in China and Egypt-and later, Chandra-Gupta India" classical
+Greece, and republican Rome-were, in demographic terms, insignificant.
+They occupied a minuscule portion ofthe world's landscape, and their subjects were no more than a rounding error in the world's population figures.
+In mainland Southeast Asia, where the first states appear only around the
+middle of the first millennium of the common era, their mark on the landscape and its peoples is relatively trivial when compared with their oversized place in the history books. Small, moated, and walled centers together
+with their tributary villages, these little nodes of hierarchy and power were
+both unstable and geographically confined. To an eye not yet hypnotized by
+archeological remains and state-centric histories, the landscape would have
+seemed virtually all periphery and no centers. Nearly all the population and
+territory were outside their ambit.
+Diminutive though these state centers were, they possessed a singular
+strategic and military advantage in their capacity to concentrate manpower
+and foodstuffs in one place. Irrigated rice agriculture on permanent fields
+was the key.9 As a new political form, the padi state was an ingathering of
+previously stateless peoples. Some subjects were no doubt attracted to the
+possibilities for trade, wealth, and status available at the court centers, while
+others, almost certainly the.majority, were 'Captives and slaves seized in war-'
+fare or purchased from slave-raiders. The vast "barbarian" periphery ofthese
+small states was a vital resource in at least two respects. First, it was the
+6 
+source of hundreds of important trade goods and forest products necessary
+to the prosperity ofthe padi state. And second, it was the source ofthe most
+important trade good in circulation: the human captives who formed the
+working capital of any successful state. What we know of the classical states
+such as Egypt, Greece, and Rome, as well as the early Khmer, Thai, and Burmese states, suggests that most oftheir subjects were formally unfree: slaves,
+captives, and their descendants.
+The enormous ungoverned periphery surrounding these minute states
+also represented a challenge and a threat. It was home to fugitive, mobile
+populations whose modes of subsistence - foraging, hunting, shifting cultivation, fishing, and pastoralism- were fundamentally intractable to state
+appropriation. The very diversity, fluidity, and mobility of their livelihoods
+meant that for an agrarian state adapted to sedentary agriculture, this ungoverned landscape and its people were fiscally sterile. Unless they wished to
+trade, their production was inaccessible for yet another re~son. Whereas the
+early states were nearly everywhere the creature ofarable plains and plateaus,
+much of the more numerous ungoverned population lived, from a state perspective, in geographically difficult terrain: mountains, marshland, swamps,
+arid steppes, and deserts. Even if, as was rarely the case, their products were
+in principle appropriable, they were effectively out ofrange owing to dispersal and the difficulties of transportation. The two zones were ecologically
+complementary and therefore natural trading partners, but such trade could
+rarely be coerced; it took the form of voluntary exchange.
+For early state elites, the periphery- seen frequently as the realm of
+"barbarian tribes" - was also a potential threat. Rarely- but memorably, in
+the case ofthe Mongols and the Huns and Osman and his conquering banda militarized pastoral people might overrun the state and destroy it or rule in
+its place. More commonly, nonstate peoples found it convenient to raid the
+settlements of sedentary farming communities subject to the state, sometimes exacting systematic tribute from them in the manner ofstates. Just as
+states encouraged sedentary agriculture for its "easy pickings," so, too, did
+raiders find it attractive as a site of appropriation.
+The main, long-run threat of the ungoverned periphery, however, was
+that it represented a constant temptation, a constant alternative to life within
+the state. Founders of a new state often seized arable land from its previous
+occupants, who might then either be incorporated' or choose to move away.
+Those who fled became, one might say, the first refugees from state power,
+joining others outside the state's reach. When and if the state's reach expanded, still others faced the same dilemma.
+1 1;
+ 7
+At a time when the state seems pervasive and inescapable, it is easy to
+forget that for much of history, living within or outside the state-or in an
+intermediate zone-was a choice, one that might be revised as the circumstances warranted. A wealthy and peaceful state center might attract a growing population that found its advantages rewarding. This, of course, fits the
+standard civilizational narrative of rude barbarians mesmerized by the prosperity made possible by the king's peace and justice-a narrative shared by
+most ofthe world's salvational religions, not to mention Thomas Hobbes.
+This narrative ignores two capital facts. First, as we have noted, it appears that much, if not most, ofthe population ofthe early states was unfree;
+they were subjects under duress. The second fact, most inconvenient for the
+standard narrative of civilization, is that it was very common for state subjects to run away. Living within the state meant, virtually by definition, taxes,
+conscription, corvee labor, and, for most, a condition ofservitude; these conditions were at the core ofthe state's strategic and military advantages. When
+these burdens became overwhelming, subjects moved with alacrity to the
+periphery or to another state. Under premodern conditions, the crowding of
+population, domesticated animals, and the heavy reliance on a single grain
+had consequences for both human and crop health that made famines and
+epidemics more likely. And finally, the early states were warmaking machines
+as well, producing hemorrhages of subjects fleeing conscription, invasion,
+and plunder. Thus the early state extruded populations as readily as it absorbed them, and when, as was often the case, it collapsed altogether as the
+result of war, drought, epidemic, or civil strife over succession, its populations were disgorged. States were, by no means, a once-and-for-all creation.
+Innumerable archeologiCal finds of state centers that briefly flourished and
+were then eclipsed by warfare, epidemics, famine, or ecological collapse depict a long history of state formation and collapse rather than permanence.
+For long periods people moved in and out of states, and "stateness" was,
+itself, often cyclical and reversible.lO
+This pattern ofstate-making and state-unmaking produced, over time,
+a periphery that was composed as much of refugees as of peoples who had
+never been state subjects. Much of the periphery ofstates became a zone of
+refuge or "shatter zone," where the human shards of state formation and
+rivalry accumulated willy nilly, creating regions of bewildering ethnic and
+linguistic complexity. State expansion and collapse often had a ratchet effect
+. as well, with fleeing subjects driving other peoples ahead of them seeking
+safety and new territory. Much of the Southeast Asian massif is, in effect, a
+shatter zone. The reputation of the southwestern Chinese province of Yun-
+8 
+nan as a "museum of human races" reflects this history ofmigration. Shatter
+zones are found wherever the expansion ofstates, empires, slave-trading, and
+wars, as well as natural disasters, have driven large numbers of people to seek
+refuge in out-of-the-way places: in Amazonia, in highland Latin America
+(with the notable exception ofthe Andes, with their arable highland plateaus
+and states), in that corridor of highland Africa safe from slave-raiding, in the
+Balkans and the Caucasus. The diagnostic characteristics of shatter zones
+are their relative geographical inaccessibility and the enormous diversity of
+tongues and cultures.
+Note that this account ofthe periphery is sharply at odds with the official story most civilizations tell about themselves. According to that tale, a
+backward, naIve, and perhaps barbaric people are gradually incorporated into
+an advanced, superior, and more prosperous society and culture. If, instead,
+many of these ungoverned barbarians had, at one time or another, elected,
+as a political choice, to take their distance from the state, a new element'of
+political agency enters the picture. Many, perhaps most, inhabitants of the
+ungoverned margins are not remnants of an earlier social formation, left behind, or, as some lowland folk accounts in Southeast Asia have it, "our living
+ancestors." The situation of populations that have deliberately placed themselves at the state's periphery has occasionally been termed, infelicitously,
+secondary primitivism. Their subsistence routines, their social organization,
+their physical dispersal, and many elements of their culture, far from being
+the archaic traits of a people left behind, are purposefully crafted both to
+thwart incorporation into nearby states and to minimize the likelihood that
+statelike concentrations of power will arise among them. State evasion and
+state prevention permeate their practices and, often, their ideology as well.
+They are, in other words, a "state effect." They are "barba:rians by design."
+They continue to conduct a brisk and mutually advantageous trade with lowland centers while steering clear of being politically captured.
+Once we entertain the possibility that the "barbarians" are not just
+"there" as a residue but may well have chosen their location, their subsistence
+practices, and their social structure to maintain their autonomy, the standard
+civilizational story ofsocial evolution collapses utterly. The temporal, civilizational series-from foraging to swiddening (or to pastoralism), to sedentary
+grain cultivation, to irrigated wet-rice farming-and its near-twin, the series
+from roving forest bands to small clearings, to hamlets, to villages, to towns,
+to court centers; these are the underpinning of the valley state's sense ofsuperiority. What ifthe presumptive "stages" ofthese series were, in fact, an array ofsocial options, each of which represented a distinctive positioning visI',
+ 9
+a-vis the state? And what if, over considerable periods oftime, many groups
+have moveq'strategically among these options toward more presumptively
+"primitive" forms in order to keep the state at arm's length? On this view, the
+civilizational discourse ofthe valley states-and not a few earlier theorists of
+social evoluti9n- is not much more than a self-inflating way of confounding
+the status ofstate-subject with civilization and that of;self-governing peoples
+with primitivism.
+The logic ofthe argument made throughout this book would essentially
+reverse thislogic. Most, if not all, the characteristics that appear to stigmatize hill peoples-their location at the margins, their physical mobility, their
+swidden agriculture,their flexible social structure, their religious heterodoxy,
+their egalitarianism, and even the nonliterate, oral cultures-far from being
+the mark of primitives left behind by civilization, are better seen on a long
+view as adaptations designed to evade both state capture and state formation.
+They are,in other words, political adaptations ofnonstate peoples to a world
+ofstates that are, at once, attractive and threatening.
+Creating Subjects
+Avoiding the state was, until the past few centuries, a real option. A thousand
+years ago most people lived outside state structures, under loose-knit empires
+or in situations offragmented sovereignty.ll Today it is an option that is fast
+vanishing. To appreciate how the room for maneuver has been drastically
+curtailed in the past millennium, a radically schematic and simplified fastforward history ofthe balance of power between stateless peoples and states
+may be helpful.'
+The permanent association of the state and sedentary agriculture is at
+the center of this story,12 Fixed-field grain agriculture has been promoted
+by the state and has been, historically, the foundation of its power. In turn,
+sedentary agriculture leads to property rights in land, the patriarchal family
+enterprise, and an emphasis, also encouraged by the state, on large families.
+Grain farming is, in this respect, inherently expansionary, generating, when
+not checked by disease or famine, a surplus population, which is obliged to
+move and colonize new lands. By any long-run perspective, then, it is grain
+agriculture that is "nomadic" and aggressive, constantly reproducing copies
+of itself, while, as Hugh Brody aptly notes, foragers and hunters, relying on
+, a single area and demographically far more stable, seem'by comparison "profoundly settled."13
+The massive expansion ofEuropean power, via colonialism and white-
+10 
+settler colonies, represented a vast expansion ofsedentary agriculture. In the
+"neo-Europes" such as North America, Australia, Argentina, and New Z~aland, Europeans reproduced, as far as possible, the agriculture with which
+they were familiar. In colonies with preexisting states based on sedentary
+agriculture, the Europeans replaced the indigenous overlords as sovereigns,
+collecting taxes and encouraging agriculture as had their predecessors, but
+more effectively. All other subsistence patterns, except when they provided
+valuable trade goods (for example, furs), were, fiscally speaking, considered
+sterile. Thus foragers, hunters, shifting-cultivators, and pastoralists were bypassed and ignored or driven from potentially arable farmland into territo~
+ries considered wastelands. Nevertheless, as late as the end ofthe eighteenth
+century, though they were no longer a majority of the world's population,
+nonstate peoples still occupied the greater part of the world's land massforest lands, rugged mountains, steppes, deserts, polar regions,.marshes, and
+inaccessibly remote zones. Such regions were still a potential refuge for those
+who had reason to flee the state.
+These stateless peoples were not, by and large, easily drawn into the
+fiscally legible economy ofwage labor and sedentary agriculture. On this definition, "civilization" held little attraction for them when they could hav~ all
+the advantages oftrade without the drudgery, subordination, and immobility
+ofstate subjects. The widespread resistance ofstateless peoples led directly to
+what might be called the golden age ofslavery along the littoral ofthe Atlantic
+and Indian Oceans and in Southeast Asia.14 From the perspective adopted
+here, populations were forcibly removed en masse from settings where their
+production and labor were illegible and inappropriable and were relocated in
+colonies and plantations,where they could be made to grow cash crops (tea,
+cotton, sugar, indigo, coffee) which might contribute to the profits of landowners and the fiscal power ofthe state.lsThis first step ofenclosure required
+forms ofcapture and bondage designed to relocate them from nonstate spaces
+where they were generally more autonomous (and healthy!) to places where
+their labor could be appropriated.
+The final two stages ofthis massive enclosure movement belong, in the
+case ofEurope, to the nineteenth century and, in the case of Southeast Asia,
+largely to the late twentieth century. They mark such a radical shift in the
+relationship between states and their peripheries that they fall largely outside
+the story I tell here. In this last period, "enclosure" has meant not so much
+shifting people from stateless zones to areas ofstate control but rather colonizing the periphery itself and transforming it into a fully governed, fiscally
+fertile zone. Its immanent logic, unlikely ever to be fully realized, is the com-
+,.
+, .
+! '.
+J,
+!,
+ 11
+plete elimination of nonstate spaces. This·truly imperial project, made possible only by distance-demolishing technologies (all-weather roads, bridges,
+railroads, airplanes, modern weapons, telegraph, telephone, and now modern
+information technologies including global positioning systems), is so novel
+and its dynamics so different that my analysis here makes no further sense in
+Southeast Asia for the period after, say, 1950. Modern conceptions ofnational
+sovereignty and the resource needs of mature capitalism have brought that
+final enclosure into view.
+The hegemony, in this past century, ofthe nation-state as the standard
+and nearly exclusive unit of sovereignty has proven profoundly inimical to
+nonstate peoples. State power, in this conception, is the state's monopoly of
+coercive force that must, in principle, be fully projected to the very edge ofits
+terdtory, where it meets, again in principle, another sovereign power projecting its command to its own adjacent frontier. Gone, in principle, are the large
+areas of no sovereignty or mutually canceling weak sovereignties. Gone too,
+of course, are peoples under no particular sovereignty. As a practical matter,
+most nation-states have tried, insofar as they had the means, to give substance
+to this vision, establishing armed border posts, moving loyal populations to
+the frontier and,relocating or driving away "disloyal" populations, clearing
+frontier lands for sedentary agriculture, building roads to the borders, and
+registering hitherto fugitive peoples.
+On the heels of this notion of sovereignty came the realization that
+these neglected and seemingly useless territories to which stateless peoples
+had been relegated were suddenly of great value to the economies ofmature
+capitalism.16 They contained valuable resources-oil, iron ore, copper, lead,
+timber, uranium, bauxite, the rare metals essential to the aerospace and
+electronics industries, hydroelectric sites, bioprospecting and conservation
+areas-that might in many cases be the linchpin ofstate revenue. Places that
+long ago might have been desirable for their deposits ofsilver, gold, and gems,
+not to mention slaves, became the object of a new gold rush. All the more
+reason to project state power to the nethermost reaches ofthese ungoverned
+regions and bring their inhabitants under firm control.
+Occupying and controlling the margins of the state implied a cultural
+policy as well. Much of the periphery along national borders of mainland
+Southeast Asia is inhabited by peoples linguistically and culturally distinct
+from the populations that dominate the state cores. Alarmingly, they spill
+.promiscuously across national frontiers, generating multiple identities and
+possible foci ofirredentism or secession. Weak valley states have permitted,
+or rather tolerated, a certain degree ofautonomy when they had little choice.
+."'
+12 
+Where they could, however, all states in the region have tried to bring s'Uch
+peoples under their routine administration, to encourage and, more rarely,
+to insist upon linguistic, cultural, and religious alignment with the majority
+population at the state core. This meant, in Thailand, encouraging, say, the
+Lahu to become Thai-speaking, literate, Buddhist subjects ofthe monarchy.
+In Burma it meant encouraging, say, the Karen to become Burmese-speaking
+Buddhists loyal to the military juntaP
+Parallel to policies of economic, administrative, and cultural absorption
+has been the policy, driven by both demographic pressure and self-conscious
+design, of·engulfment. Huge numbers of land-hungry majorities from the
+plains have moved, or been moved, to the hills. There, they replicate valley
+settlement patterns and sedentary agriculture, and, over time, they de~ographically dominate the dispersed, less numerous hill peoples. The combination offorced settlement and engulfment is nicely illustrated by a series
+of Vietnamese mobilization campaigns in the 1950S and 1960s: "Campaign
+to Sedentarize the Nomads," "Campaign for Fixed Cultivation and Fixed
+Residence," "Storm the Hills Campaign," and "Clear the Hills by Torchlight
+Campaign. "18
+Culturally, this reduction and standardization ofrelatively autonomous,
+self-governing communities is a process of long historical lineage. It is an
+integral theme of the historical consciousness of each of the large mainland
+Southeast Asian states. In the Vietnamese official national narrative, the
+"march to the south" -to the Mekong and the trans-Bassac Deltas-inaccurate though it is as a description ofthe historical process, vies with the wars of
+national liberation for pride of place.19 Burmese and Thai history are no less
+marked by the movement of population from their more northern historical
+cores of Mandalay, Ayutthaya, and what is now Hanoi into the Irrawaddy,
+Chao Praya, and Mekong river deltas, respectively. The great cosmopolitan,
+maritime cities of Saigon (now Ho Chi Minh City), Rangoon, and Bangkok
+that grew to serve this onetime frontier, delta, hinterland have come, demographically, to dominate the earlier inland capitals.
+Internal colonialism, broadly understood, aptly describes this process.
+It involved the absorption, displacement, and/or extermination ofthe previous inhabitants. It involved a botanical colonization in which the landscape
+was transformed - by deforestation, drainage, irrigation, and levees- to accommodate crops, settlement patterns, and systems of administration familiar to the state and to the colonists. One way of appreciating the effect ofthis
+colonization is to view it as a massive reduction of vernaculars of all kinds: of
+vernacular languages, minority peoples, vernacular cultivation techniques,
+ 13
+vernacular land tenure systems, vernacular hunting, gathering, and forestry
+techniques, vernacular religion, and so on. The attempt to bring the periphery into line is read by representatives of the sponsoring state as providing civilization and progress-where progress is, in turn, read as the intrusive propagation of the linguistic, agricultural, and religious practices of the
+dominant ethnic group: the Han, the Kinh, the Burm<itn, the Thai.2o
+The remaining self-governing peoples and spaces of mainland Southeast Asia are much diminished. We shall, for the most part, concentrate on
+the so-called hill peoples (often mistakenly called tribes) ofmainland Southeast Asia, particularly Burma. While I will clarify what I mean by the awkward term nonstate spaces, it is not simply a synonym for hills or for higher
+altitudes. States, being associated with concentrated grain production, typically arise where there is a substantial expanse of arable land. In mainland
+Southeast Asia, this agro-ecology is generally at low elevations, allowing us
+to speak of "valley states" and "hill peoples." Where, as in the Andes, most
+easily cultivable land under traditional conditions is located at high elevations, it is the other way around. The states were in the hills and nonstate
+spaces were downhill in the humid lowlands. Thus the key variable is not
+so much elevation per se as the possibility for concentrated grain production. Nonstate space, by contrast, points to locations where, owing largely to
+geographical obstacles, the state has particular difficulty in establishing and
+maintaining its authority. A Ming emperor had something like this in mind
+when he described the southwest provinces of his kingdom: "The roads are
+long and dangerous, the mountains and rivers present great obstacles, and
+the customs and practices differ. "21 But swamps, marshes, mangrove coasts,
+deserts, volcanic margins, and even the open sea, like the' ever growing and
+changing deltas of Southeast Asia's great rivers, all function in much the
+same way. Thus it is difficult or inaccessible terrain, regardless of elevation,
+that presents great obstacles to state control. As we shall see at great length,
+such places have often served as havens ofrefuge for peoples resisting or fleeing the state.
+The Great Mountain Kingdom; or, "Zomia"; or,
+The Marches of Mainland Southeast Asia
+One of the largest remaining nonstate spaces in the world, if not the largest,
+·is the vast expanse of uplands, variously termed the Southeast Asian massif and, more recently, Zomia.22 This great mountain realm on the marches
+14 
+of mainland Southeast Asia, China, India, and Bangladesh sprawls across
+roughly 2.5 million square kilometers-an area roughly the size of Europe.
+As one of the first scholars to identify the massif and its peoples as a single
+object ofstudy,Jean Michaud has traced its extent: "From north to south, it
+includes southern and western Sichuan, all ofGuizhou and Yunnan, western
+and northern Guangxi, western Guangdong, most of northern Burma with
+an adjacent segment of extreme [north]eastern India, the north and west of
+Thailand, practically all ofLaos above the Mekong Valley, northern and central Vietnam along the Annam Cordillera, and the north and eastern fringes
+ofCambodia. "23
+Rough calculations would put Zomia minority populations alone at
+around eighty million to one hundred million.24 Its peoples are fragment~d
+into hundreds of ethnic identities and at least five language families that defy
+any simple classification.
+Lying at altitudes from two hundred or three hundred'meters above
+sea level to more than four thousand meters, Zomia could be thought of as
+a Southeast Asian Appalachia, were it not for the fact that it sprawls across
+eight nation-states. A better analogy would be Switzerland, a mountain
+kingdom at the periphery of Germany, France, and Italy that itself became
+a nation-state. Borrowing Ernest Gellner's felicitous phrase referring to the
+Berbers ofthe High Atlas Mountains, this huge hilly zone might be seen as a
+"pervasive Switzerland without cuckoo clocks. "25 Far from being a hilly nation, however, this upland belt lies on the marches, far from the main population centers ofthe nations it traverses.26 Zomia is marginal in almost every
+respect. It lies at a great distance from the main centers of economic activity;
+it bestrides a contact zone between eight nation-states and several religious
+traditions and cosmologies.27
+Scholarship organized historically around the classical states and their
+cultural cores and, more recently, around the nation-state is singularly illequipped to examine this upland belt as a whole. Willem van Schendel is
+one of a handful of pioneers who. have argued that these cumulative nationstate "shards" merit consideration as a distinctive region. He has gone so far
+as to give it the dignity of a name of its own: Zomia, a term for highlander
+common to several related Tibeto-Burman languages spoken in the IndiaBangladesh-Burma border area.28 More precisely, Zo is a relational term
+meaning "remote" and hence carries the connotation of living in the hills;
+Map I. Mainland Southeast Asia
+I
+'If.
+I
+i,
+I
+I;
+16 
+Mi means "people." As is the case elsewhere in Southeast Asia Mi-zo or
+Zo-mi designated a remote hill people, while at the same time the ethnic label
+applies to a geographical niche.29 Although van Schendel proposes a bold.
+expansion of Zomia's boundaries to Afghanistan and beyond, I will confine
+my use ofthe term to the hilly areas eastward, beginning with the Naga and
+Mizo hills in northern India and Bangladesh's Chittagong Hill Tracts.
+Zomia, at first glance, would seem an unlikely candidate for consideration as a distinctive region. The premise for calling a geographical area a:
+region is typically that it shares important cultural features that mark it of!
+from adjacent areas. In this fashion, Fernand Braudel was able to show that
+the coastal societies around the Mediterranean Sea constituted a region,
+owing to their long and intense commercial and cultural connections.30 Despite political and religious chasms between, say, Venice and Istanbul, they
+were integral parts ofa recognizable world of exchange and mutual influence.
+Anthony Reid has made a similar, and in many respects, more powerful claim
+for the Sunda Shelflittoral in maritime Southeast Asja, where trade and migration were, if anything, easier than in the Mediterranean.31 The principle
+behind region-making in each case is that, for the premodern world, water,
+especially ifit is calm, joins people, whereas mountains, especially ifthey are
+high and rugged, divide people. As late as 1740 it took no more time to s~il
+from Southampton to the Cape of Good Hope than to travel by stagecoach
+from London to Edinburgh.
+On these grounds, hilly Zomia would seem to be a "negative" region.
+Variety, more than uniformity, is its trademark. In the space of a hundred
+kilometers in the hills one can find more cultural variation- in language,
+dress, settlement pattern, ethnic identification, economic activity, and religious practices- than one would ever find in the lowland river valleys. Zomia
+may not quite attain the prodigious cultural variety of deeply fissured New
+Guinea, but its complex ethnic and linguistic mosaic has presented a bewildering puzzle for ethnographers and historians, not to mention would-be
+rulers. Scholarly work on the area has been as fragmented and isolated as the
+terrain itselfseemed to be.32
+I will argue not only that Zomia qualifies as a region in the strong sense
+ofthe term, but also that it is impossible to provide a satisfactory account of
+the valley states without understanding the central role played by Zomia in
+their formation and collapse. The dialectic or coevolution of hill and valley,
+Map 2. "Zqmia," on the mainland Southeast Asian massif
+,
+i,
+18 
+as antagonistic but deeply connected spaces, is, I believe, the essential point
+of departure for making sense of historical change in Southeast Asia. .
+Most ofwhat the hills share as physical and social spaces marks them off
+fairly sharply from the more populous lowland centers. The population ofthe
+hills is far more dispersed and culturally diverse than that ofthe valleys. It is
+as ifthe difficulties ofterrain and relative isolation have, over many centuries,
+encouraged a kind of "speciation" of languages, dialects, dress, and cultural
+practices. The relative availability offorest resources and open, ifsteep, land
+has also allowed far more diverse subsistence practices than in the valleys,
+where wet-rice monocropping often prevails. Swiddening (or slash-and-burn
+agriculture), which requires more land and requires clearing new fields and
+occasionally shifting settlement sites, is far more common in the hills.
+As a general rule, social structure in the hills is both more flexible and
+more egalitarian than in the hierarchical, codified valley societies. Hybrid
+identities, movement, and the social fluidity that characterizes many frontier
+societies are common. Early colonial officials, taking an inventory of their
+new possessions in the hills, were confused to encounter hamlets with several
+"peoples" living side by side: hill people who spoke three or four languages
+and both individuals and groups whose ethnic identity had shifted, sometimes within a single generation. Aspiring to Linnaean specificity in the classification of peoples as well as flora, territorial administrators were constantly
+frustrated by the bewildering flux of peoples who refused to stay put. There
+was, however, one principle of location that brought some order to thisapparent anarchy ofidentity, and that was its relation to altitude.33 As Edmund
+Leach originally suggested, once one looks at Zomia not from a high-altitude
+balloon but, rather, horizontally, in terms oflateral slices through the topography, a certain order emerges.34 In any given landscape, particular groups
+often settled within a narrow range of altitudes to exploit the agro-economic
+possibilities of that particular niche. Thus, for example, the Hmong :have
+tended to settle at very high altitudes (between one thousand and eighteen
+hundred meters) and to plant maize, opium, and millet that will thrive at
+that elevation.'If from a high-altitude balloon or on a map they appear to
+be a random scattering ofsmall blotches, this is because they have occupied
+the mountaintops and left the midslopes and intervening valleys to other
+groups.
+Specialization by altitude and niche within the hills leads to scattering.
+And yet long-distance travel, marriage alliances, similar subsistence patterns,
+and cultural continuity help foster coherent identities across considerable
+I,
+i·
+j
+, '
+ 19
+distances. The "Akha" along the Yunnan-Thai border and the "Hani" in the
+upper reaches of the Red River in northern Vietnam are recognizably the
+same culture, though separated by more than a thousand kilometers. They
+, typically have more in common with each another than either group has with
+valley people a mere thirty or forty miles away. Zomia is thus knitted together
+as a region not by a political unity, which it utterly lacks, but by comparable patterns of diverse hill agriculture, dispersal and mobility, and rough
+egalitarianism, which, not incidentally, includes a relatively higher status for
+women than in the valleys.35
+The signal, distinguishing trait ofZomia, vis-a.-vis the lowland regions
+it borders, is that it is relatively stateless. Historically, of course, there have
+been states in the hills where a substantial fertile plateau and/or a key node
+in the overland trade routes made it possible. Nan Chao, Kengtung, Nan, and
+Lan-na were among the best known.36 They are the exceptions that prove the
+rule. While state-making projects have abounded in the hills, it is fair to say
+that few have come to fruition. Those would-be kingdoms that did manage
+to defy the odds did so only for a relatively brief, crisis-strewn period.
+Such episodes aside, the hills, unlike the valleys, have paid neither taxes
+to monarchs nor regular tithes to a permanent religious establishment. They
+have constituted a relatively free, stateless population of foragers and hill
+farmers. Zomia's situation at the frontiers of lowland state centers has contributed to its relative isolation and the autonomy that such isolation favors.
+Lying athwart state borders where multiple competing sovereignties abut
+one another has itself afforded its peoples certain advantages for smuggling,
+contraband, opium production, and the "small border powers" that negotiate
+a tenuous, high-wire act of quasi-independence.37
+A stronger and, I believe, more accurate political description is that the
+hill populations ofZomia have actively resisted incorporation into the framework ofthe classicalstate, the colonial state, and the independent nation-state.
+Beyond merely taking advantage oftheir geographical isolation from centers
+ofstate power, much of Zomia has "resisted the projects of nation'-building
+and state-making ofthe states to which it belonged."38 This resistance came
+especially to light after the creation ofindependent states alter World War II,
+when Zomia became the site of secessionist movements, indigenous rights
+struggles, millennial rebellions, regionalist agitation, and armed opposition
+to lowland states. But it is a resistance with deeper roots. In the precolonial
+. period, the resistance can be seen in a cultural refusal oflowland patterns and
+in the flight oflowlanders seeking refuge in the hills.
+20 
+During the colonial era, the autonomy of the hills, politically and culturally, was underwritten by the Europeans for whom a separately adminis,:"
+tered hill zone was a makeweight against the lowland majorities resentful of
+colonial rule. One effect of this classic divide-and-rule policy is that, with a
+few exceptions, hill peoples typically played little or no role-or an ,antagonistic one - in the anticolonial movements. They remained, at best, marginal
+to the nationalist narrative or, at worst, were seen as a fifth column threat.:..
+ening that independence. It is partly for such reasons that the postcolonial
+lowland states have sought fully to exercise authority in the hills: by military
+occupation, by campaigns against shifting cultivation, by forced settlements,
+by promoting the migration oflowlanders to the hills, by efforts at religious
+conversion, by space-conquering roads, bridges, and telephone lines, and by
+development schemes that project government administration, and lowland
+cultural styles into the hills.
+The hills, however, are not simply a space of political resistance but
+also a zone of cultural refusal. Ifit were merely a matter of political authority,
+one might expect the hill society to resemble valley society culturally except
+for their altitude and the dispersed settlement that the terrain favors. But
+the hill populations do not generally resemble the valley centers culturally,
+religiously, or linguistically. This cultural chasm between the mountains and
+the plains has been claimed as something of a historical constant in Europe
+as well, until quite recently. Fernand Braudel acknowledged the political autonomy of the hills when he approvingly quoted Baron de Tott to the effect
+that "the steepest places have always been the asylum of liberty." But he
+carried the argument much further, asserting the existence of an unbridgeable cultural gap between plains and mountains. He wrote: "The mountains
+are as a rule a world apart from civilizations which are an urban and lowland
+achievement. Their history is to have none, to remain always on the fringes
+ofthe great waves of civilization, even the longest and most persistent, which
+may spread over great distances in the horizontal plane but are powerless to
+move vertically when faced with an obstacle of several hundred meters."39
+Braudel was, in turn, only echoing a much older view captured by the great
+fourteenth...,century Arab philosopher Ibn Khaldun, who noted that "Arabs
+can gain control only over flat territory" and do not pursue tribes that hide
+in the mountains.40 Compare Braudel's bold assertion that civilizations can't
+climb hills to a nearly identical assertion made by Oliver Wolters, quoting
+Paul Wheatley, about precolonial Southeast Asia: "Many people lived in the
+distant highlands and were beyond the reach of the centers where records
+i,
+~ , \
+:'1
+ 21
+survive. The mandalas [court centers of civilization and power] were a phenomenon of the lowlands and even there, geographical conditions encouraged under-government. Paul Wheatley puts it well when he notes that 'the
+Sanskritic tongue was stilled to silence at 500 meters.' "41
+Scholars of Southeast Asia have been struck again and again by the
+sharp limits the terrain, particularly altitude, has placed on cultural or political influence. Paul Mus, writing ofVietnam and ~choing Wheatley, noted
+of the spread of the Vietnamese and their culture that "this ethnic adventure stopped at the foot of the high country's buttresses."42 Owen Lattimore, best known for his studies ofChina's northern frontier, also remarked
+that Indian and Chinese civilizations, like those cited by Braudel, traveled
+well across the plains but ran out of breath when they encountered rugged
+hills: "This kind of stratification extends far beyond China itself into the
+Indochinese peninsula, Thailand and Burma with the influence of the ancient high civilizations reaching far out over the lower levels where concentrated agriculture and big cities are to be found, but not up into the higher
+altitudes. "43
+Though Zomia is exceptionally'diverse linguistically, the languages spoken in the hills are, as a rule, distinct from those spoken in the plains. Kinship
+structures, at least formally, also distinguish the hills from the lowlands. This
+is in part what Edmund Leach had in mind when he characterized hill society
+'as following a "Chinese model" while lowland society followed an "Indian"
+or Sanskritic model.44
+'Hill societies are, as a rule, systematically different from valley societies. Hill people tend to be animists, or, in the twentieth century, Christians,
+who do not follow the "great tradition" salvation religions oflowland peoples
+(Buddhism and Islam in particular). Where, as occasionally happens, they do
+come to embrace the "world religion" oftheir valley neighbors, they are likely
+to do so with a degree of heterodoxy and millenarian fervor that valley elites
+find more threatening than reassuring. Hill societies do produce a surplus,
+but they do not use that surplus to support kings and monks. The absence
+oflarge, permanent, surplus-absorbing religious and political establishments
+makes for a sociological pyramid in the hills that is rather flat and local when
+compared with that of valley societies. Distinctions of status and wealth
+abound in the hills, as in the valleys. The difference is that in the valleys they
+tend to be supralocal and enduring, while in the hills they are both unstable
+and geographically confined.
+This characterization obscures a great deal of variation in the political
+22 
+structure of hill societies. The variation is not by any means simply a function of "ethnicity," although some hill peoples, such as the Lahu, Khmu,
+and Akha, seem strongly egalitarian and decentralized. It is just as common,
+however, to encounter groups that defy such 'generalizations. Among Karen,
+Kachin, Chin, Hmong, Yao/Mien, and Wa, for example, there seem to be
+both relatively hierarchical subgroups and relatively decentralized, egalitarian subgroups. What is most striking and important is that the degree of
+hierarchy and centralization is not constant over time. The variation, so far
+as I can make out, depends largely on a kind ofimitative state-making. That
+is, it is either a kind ofshort-term war alliance or a sort of "booty-capitalism"
+for slave-raiding and extracting tribute from lowland communities. Where
+hill groups are in a tributary relationship with a valley kingdom-which ,does
+not imply political incorporation or, necessarily, inferiority-it may be -an
+expedient to control a lucrative trade route or to safeguard privileged access
+to valuable markets. Their political structures are, with extremely rare exceptions, imitative in the sense that while they may have the trappings and rhetoric ofmonarchy, they lack the substance: a taxpaying subject population or
+direct control over their constituent units, let alone a standing army. Hill polities are, almost invariably, redistributive, competitive feasting systems held
+together by the benefits they are able to disburse. When they occasionally
+appear to be relatively centralized, they resemble what Barfield has called the
+"shadow-empires" of nomadic pastoralists, a predatory periphery desigp.ed
+to monopolize trading and raiding advantages at the edge of an empire. They
+are also typically parasitic in the sense that when their host-empires collapse,
+so do they.45
+Zones ofRefuge
+There is strong evidence that Zomia is not simply a region of resistan~e to
+valley states, but a region of refuge as well.46 By "refuge," I mean to imply
+that much ofthe population in the hills has, for more than a millennium,and
+a half, come there to evade the manifold afflictions ofstate-making projects
+in the valleys. Far from being "left behind" by the progress of civilization in
+the valleys, they have, over long periods of time, chosen to place themselves
+out of the reach of the state. Jean Michaud notes, in this connection, that
+what he calls nomadism in the hills can be "an escape or survival strategy"
+and sees the unprecedented series of massive rebellions in the latter half of
+the nineteenth century in central and southwest China as having pushed the
+; ,
+ 23
+millions of refugees streaming south into the more remote highlands. He is
+sympathetic to the view adopted here that Zomia is best seen historically as
+a region of refuge from states, most especially the Han state. "It is probably
+fair to say," he concludes, "that the highland populations who migrated from
+China to the ... highlands over the past five centuries were, at least in part,
+pushed from their homelands by aggression from more powerful neighbors,
+including especially Han expansion."47
+Detailed and unambiguous documentary evidence ofthe conflicts generated by Han expansion and the migratory flights it provoked is abundant
+from the early Ming Dynasty (1368) onward, becoming even more abundant
+under the Q!ng. Earlier documentation is harder to come by and more ambiguous, owing to the great fluidity of ethnic and political labels. The general
+pattern, l!owever, seems to be as follows: as the reach of the Chinese state
+grew, peoples at the point of expansion were either absorbed (becoming, in
+time, Han) or moved away, often after a failed revolt. Those who left became, at least for a time, distinct societies that could be said to have "selfmarginalized" by migration.48 As the process was repeated again and again,
+culturally complex zones of refuge sprang up in the hinterlands ofthe state.
+"The history of the various non-state peoples of this region" can, Fiskesjo
+believes, be written as the bifurcation between those who had long been in
+the hills (for example, the Wa people) and those who sought refuge there:
+"Among those who left [the zone of Chinese state power], we find many
+Tibeto-Burman ethnolinguistic formations (Lahu, Hani, Akha, etc.) as well
+as Miao or Hmong speakers, and other peoples . . . described as 'hill tribes
+out of China' with a 'heritage of defeat' that has led many of them during
+the past few centuries, into the northern parts ofthe modern states ofThailand, Burma, Laos, and Vietnam where many of them are still regarded as
+newcomers. "49
+There, in regions beyond the states' immediate writ and, thus, at some
+remove from taxes, corvee labor, conscription, and the more than ,occasional
+epidemics and crop failures associated with population concentration'and
+monocropping, such groups found relative freedom and safety. There, they
+practiced what I will call escape agriculture: forms of cultivation designed to
+thwart state appropriation. Even their social structure could fairly be called
+escape social structure inasmuch as it was designed to aid dispersal and autonomy and to ward off political subordination.
+The tremendous linguistic and ethnic fluidity in the hills is itself a crucial social resourc~ for adapting to changing constellations of power, inas-
+24 
+much as it facilitates remarkable feats of identity shape-shifting. Zomians
+are not as a rule only linguistically and ethnically amphibious; they are, in
+their strong inclination to follow charismatic figures who arise among them,
+capable of nearly instantaneous social change, abandoning their fields and
+houses to join or form a new community at the behest of a trusted prophet.
+Their capacity to "turn on a dime" represents the ultimate in escape sociaJ
+structure. Illiteracy in the hills can, more speculatively, be interpreted in the
+same fashion. Virtually all hill peoples have legends claiming that they once
+had writing and either lost it or that it was stolen from them. Given the con- ,
+siderable advantages in plasticity of oral over written histories and genealogies, it is at least conceivable to see the loss ofliteracy and ofwritten texts as
+a more or less deliberate adaptation to statelessness. .
+The argument, in short, is that the history of hill peoples is best understood as a history not of archaic remnants but of "runaways" from statemaking processes in the lowlands: a largely "maroon" society, providing'
+that we take a very long historical view. Many of the agricultural and social practices of hill peoples can be best understood as techniques to make
+good this evasion, while maintaining the economic advantages ofthe lowland "
+connection.
+The concentration of people and production at a single location -required some form of unfree labor when population was sparse, as it was in
+Southeast Asia. All Southeast Asian states were slaving states, without eiception, some ofthem until well into the twentieth century. Wars in precolonial
+Southeast Asia were less about territory than about the seizure of as many
+captives as possible who were then resettled at the core ofthe winner's territory. They were not distinctive in this respect. After all, in Periclean Athens,
+the population ofslaves outnumbered full citizens by five to one.
+The effect of aJI state-making projects ofthis kind was to create a shatter zone or flight zone to which those wishing to evade or to escape bondage
+fled. These regions ofrefuge constituted a direct "state effect." Zomia simply
+happens to be, owing largely to the precocious early expansion ofthe Chinese
+state, one ofthe most extensive and oldest zones ofrefuge. Such regions are,
+however, inevitable by-products of coercive state-making and are found on
+every continent. A few of them will figure as comparative cases in what follows, but here I want to enumerate several examples to suggest how common
+they are.
+The forced-labor characteristic of Spanish colonization in the New
+World provoked the widespread flight of native peoples out of range, often
+; ,
+ 25
+to hilly or arid places where they could live unmolested.50 Such areas were
+marked by great linguistic and ethnic diversity and occasionally by a simplification ofsocial structure and subsistence routines-foraging, shifting cultivation-to increase mobility. The process was repeated in the Spanish Philippines, where, it is claimed, the cordillera ofnorthern Luzon was populated
+almost entirely by lowland Filipinos fleeing Malay slave raids and the Spanish reducciones. 51 As peoples adapted to hill ecology, a process of ethnogenesis
+followed, after which highland Filipinos were later misrepresented as the
+descendants ofseparate, prehistoric migrations to the island.
+The Cossacks on Russia's many frontiers represent another striking
+example ofthe process. They were, at the outset, nothing more and nothing
+less than runaway serfs from all over European Russia who accumulated at
+the fronti7r.52 They became, depending on their location, different Cossack
+"hosts": the Don (for the Don River basin) Cossacks, the Azov (Sea) Cossacks, and so on. There at the frontier, copying the horseback habits oftheir
+Tatar neighbors and sharing a common open...land pasture, they became "a
+people," later used by the tsars, the Ottomans, and'the Poles as cavalry. The
+history ofthe Roma and Sinti (Gypsies) in late-seventeenth-century Europe
+provides a further striking example.53 Along with other stigmatized itinerant
+peoples, they were'subject to two forms of penal labor: galley slavery in the
+Mediterranean basin and, in the northeast,""forced.conscription as soldiers or
+military porters in Prussia-Brandenburg. As a result they accumulated in a
+narrow band ofterritory that came to be known as the "outlaw corridor," the
+one location between the catchment areas ofthese twin, mortal dangers.
+Inasmuch as the captivity and bondage associated with early statemaking generate, in their wake, flight and zones of refuge, slavery as a labor
+system produced many "Zomias',' large and small. It is possible, in this context, to delineate an upland, remote zone of West Africa that was relatively
+safe from the five hundred-year-long worldwide slave-raiding and trade that
+caught tens of millions ofin its toils.54 This zone of refuge grew it!. population despite the difficulties of the terrain and the necessity for new subsistence routines. Many of those who failed to evade the slave raids in Africa,
+once transplanted to the New World, promptly escaped and created fugitive
+slave (maroon) settlements wherever slavery was practiced: the famous highland "cockpit" ofJamaica; Palmares in Brazil, a maroon community ofsome
+twenty thousand inhabitants; and Surinam, the largest maroon population in
+the hemisphere, are only three illustrations. Were we to include smaller scale
+"refugia" such as marshes, swamps, and deltas, the list would multiply many-
+26 
+fold. To mention only a few, the great marsh on the lower Euphrates (drained
+under Saddam Hussein's rule) was for two thousand years a refuge from state
+control. So, on a smaller scale, were the storied Great Dismal Swamp on the
+North Carolina-Virginia border, the Pripet Marshes in Poland, now on the
+Belarus-Ukraine border, and the Pontian Marshes near Rome (drained finally
+by Mussolini) known as zones ofrefuge from the state. The ~ist ~f such refu~
+gia is at least as long as the list of coercive labor schemes that mevltably spawn
+them.
+Hill societies in mainland Southeast Asia, then, for all their riotous
+heterogeneity, have certain characteristics in common, and most of these
+characteristics distinguish them sharply from their valley neighbors. Th~y
+encode a pattern of historic flight and hence a position of opposition if riot
+resistance. Ifit is this historical, structural relation that we hope to illuminate,
+then it makes no sense whatever to confine ourselves to a nation-state framework. For much of the period we wish to examine there was no nation-state
+and, when it did come into being late in the game, many hill people continued
+to conduct their cross-border lives as if the state didn't exist. The concept
+of "Zomia" marks an attempt f " " d' . to explore a new genre 0 area stu les, m
+which the justification for designating the area has nothing to do with national
+boundaries (for example, Laos) or strategic conceptions (for example, Southeast Asia) but is rather based on certain ecological regularities and structu~al
+relationships that do not hesitate to cross national frontiers. If we have our
+way, the example of "Zomia studies" will inspire others to follow this experiment elsewhere and improve on it.
+The Symbiotic History of Hills and Valleys
+Histories of the classical lowland court-states, taken in isolation, risk being
+unintelligible or vastly misleading. Lowland states (mandala or modern) have
+always existed in symbiosis with hill society.55 By symbiosis, I mean to invoke
+the biological metaphor oftwo organisms living together in more or less intimate association - in this case, social organisms.'The term does not specify,
+nor do I wish to do so here, whether this mutual dependence is antagonistic,
+or even parasitic, or whether it is mutually beneficial, "synergistic."
+It is not possible to write a coherent history of the hills that is not in
+constant dialogue with lowland centers; nor is it possible to write a coherent history of lowland centers that ignores its hilly periphery. By and large,
+most students of hill societies have been sensitive to this dialectic, stressing
+:~ ,;
+ 27
+the deep history of symbolic, economic, and human traffic between the two
+societies. The same typically cannot be said of work- even the most distinguished-on lowland centers.56 The pattern is hardly surprising. Treatment oflowland cultures and societies as self-contained entities (for example,
+"Thai civilization," "Chinese culture") replicates the unreflective structure
+ofscholarship and, in doing so, adopts the hermetic v~ew of culture that lowland elites themselves wish to project. The fact is that'hill and valley societies
+have to be read against each other to make any sense. I attempt just such a
+reading here.
+Writing an account of valley population centers without including the
+hills would be like writing a history of colonial New England and the Middle
+Atlantic States without considering the American frontier. It would be like
+writing a history of antebellum slavery in the United States while leaving out
+the freedmen and the lure of freedom in Canada. In each case, an external
+frontier conditioned, bounded, and in many respects constituted what was
+possible at the center. Accounts oflowland states that miss this dimension do
+not merely "leave out" the hills; they ignore a set ofboundary conditions and
+exchanges that make the center what it is.
+The constant movement back and forth between the valleys and the
+hills-its causes, its patterns, its consequences-will preoccupy us. Many
+valley people are, as it were, "ex-hill people," and many hill people are "exvalley people." Nor did movement in one direction or the other preclude
+subsequent moves. Depending on the circumstances, groups have disengaged
+themselves from a state and then, later, sought to affiliate themselves (or been
+seized by!) the same or another state. A century or two later, they might again
+be found outside that state's grasp, perhaps because they had moved away or
+perhaps because the state in question had itself collapsed. Such shifts were
+often accompanied by a shift in ethnic identity, broadly understood. I will argue for a radically "constructionist" understanding ofthe so-called hill tribes
+of mainland Southeast Asia. They are best understood, at least as a first approximation, as a fugitive population that has come to the hills ovef'the past
+two millennia. This flight was not only from the Burman, Tai, and Siamese
+states but also, and most especially, from the Han Empire during the expansionary phases ofthe Tang, Yuan, Ming, and Q!ng dynasties, when its forces
+and settlers pressed into southwest China. In the hills they might have moved
+several times subsequently, pressed by other, stronger fugitives or threatened
+by a new state expansion, or in search ofnew land and autonomy. Their location and many of their economic and cultural practices could again fairly be
+28 
+termed a state effect. This picture is radically at odds with older prevailing
+assumptions of a primeval population in the hills abandoned by those who
+moved downhill and developed civilizations. .
+By the same token, the valley centers of wet-rice cultivation may profitably be seen as constituting a hill effect in the following ways. The valley states are, of course, new structures historically speaking, dating back to
+roughly the middle of the first millennium CEo They were formed from ali.
+earlier ingathering ofdiverse peoples, some ofwhom may have adopted fixedfield agriculture, but who were, by definition, not previously part ofan established state.57 The very earliest mandala states were less engines of military
+conquest than cultural spaces available to all those who wished to conform
+to their religious, linguistic, and cultural formats, whatever their origip.58
+Perhaps because such identities were newly confected from many cultural
+shards, the resulting valley self-representations were at pains to distinguish
+their culture from populations outside the state. Thus if hill society could be
+termed a state effect, valley culture could be seen as a hill effect.
+Most of the terms that we would translate as crude, unrefined, barbaric,
+and, in the Chinese case, raw refer directly to those who live in the hills
+and forests. "Forest dweller" or "hill person" is shorthand for "uncivilized."
+Thus, despite a centuries-old, brisk traffic in people, goods, and culture across
+the very permeable membrane between the hills and valleys, it is striking how
+stark and durable the cultural divide remains in lived experience. Valley and
+hill peoples generally have an essentialist understanding of the differences
+between them that appears to be at odds with the historical evidence over the
+long run.
+How can we make sense ofthis paradox? Perhaps the first step is to emphasize that the relationship between valley states and hill society is not just
+symbiotic but also both contemporaneous and quasi-oppositional. In older
+understandings of hill "tribes," not to mention popular folklore today, they
+are considered to be the historical remnants of an earlier stage of human history: what we were like before we discovered wet-rice agriculture, learned to
+write, developed the arts of civilization, and adopted Buddhism. While this
+"just-so" story treats valley cultures as later, and higher, achievements of
+civilization, raised from the muck of tribalism, as it were, it grossly distorts
+the historical record. Valley states and hill peoples are, instead, constituted
+in each other's shadow, both reciprocal and contemporaneous. Hill societies
+have always been in touch with imperial states in the valleys directly or via
+maritime trade routes. Valley states, by the same token, have always been in
+ 29
+touch with the nonstate periphery- what Deleuze and Guattari call "the
+local mechanisms ofbands, margins, minorities, which continue to affirm the
+rights of segmentary societies in opposition to the organs of state power."
+Such states are, in fact, "inconceivable independent of that relationship."59
+Precisely the same case has been made about the relationship between
+itinerant peoples-including pastoral nomads-and s~ates. Thus Pierre Clastres argues persuasively that the so-called primitive Amerindian societies of
+South America were not ancient societies that had failed to invent settled
+agriculture or state forms but rather previously sedentary cultivators who
+abandoned agriculture and fixed villages in response to the effects of the
+Conquest: both disease-induced demographic collapse and colonial forced
+labor.60 Their movement and subsistence techniques were designed to ward
+off incorporation into the state. On the steppes of Central Asia the most ancient nomads, Griaznov has shown, were former sedentary cultivators who
+similarly left cultivation behind for political and demographic reasons.61 Lattimore reached the same conclusion, insisting that pastoral nomadism arose
+after farming and drew in sedentary cultivators at the edge ofthe grasslands
+who "had detached themselves from farming communities."62 Far from
+being successive stages in social evolution, such states and nomadic peoples
+are twins, born more or less at the same time and joined in a sometimes rancorous but unavoidable embrace.
+, This pattern of paired symbiosis and opposition is a staple of Middle
+Eastern history and anthropology. In the Maghreb it takes the form ofstructural opposition between Arabs and Berbers. Ernest Gellner's classic Saints
+of the Atlas captures the dynamic I have in mind. Gellner, too, emphasized
+that the political autonomy and tribalism of the Berber population in the
+'High Atlas is "not a tribalism 'prior to government' but a political and partial rejection of a particular government combined with some acceptance of
+a wider culture and its ethic. "63 Sharing elements of a larger culture and a
+faith in Islam, such tribal opposition is explicitly political and deliberately
+so. Until very recently, Gellner claims, Moroccan history could be 'written in
+terms ofthe opposition between the land ofmakhazen (the pale) and the land
+ofsiba (beyond the pale). Siba could be defined as "institutional dissidence,"
+though it has sometimes been translated as "anarchy." In practice, siba means
+"ungoverned," a zone of political autonomy and independence, while makhazen means "governed," subordinated to the state. Political autonomy was,
+Gellner insists, a choice, not a given.
+To those groups that have self-consciously elected to move or to stay
+30 
+beyond the pale, Gellner applies the term marginal tribalism to emphasize that
+their marginality is a political stance:
+Such tribesmen know the possibility ... of being incorporated in a more centralized state.... Indeed, they may have deliberately rejected and violently
+resisted the alternative. The tribes ofthe High Atlas,are ofthis kind. Until the
+advent of the modern state, they were dissident and self-consciously so. . . .
+"Marginal" tribalism ... [is] the type oftribal society which exists at the edge
+of non-tribal societies. It arises from the fact that the inconveniences of submission make it attractive to withdraw from political authority and the balance
+ofpower, the nature ofthe mountainous or desert terrain make it feasible. Such
+tribalism is politically marginal. It knows what it rejects.
+In the Maghreb, as in Zomia, the distinction between a zone of state rule
+and a marginal, autonomous zone was geographical and ecological as well as
+political. There is a "rough tie-up between high-ground, Berber speech and
+political dissidence," such that "gorges and mountains were a clear dividing
+line between the land of the government (bled el-makhazen) and the land of
+dissidence (bled-es-siba). "64
+The Berber case is instructive for two reasons. First, Gellner makes it
+abundantly clear that the demarcation line between Arab and Berber is not,
+essentially, one of civilization, let alone religion. Instead, it is a political line
+distinguishing the subjects of a state from those outside its control. Assuming, as Gellner does, historical movement back and forth across this divide,
+what becomes intriguing is that a distinction in political status is ethnically
+coded as ifit were a fundamental difference in kinds of people and not a political choice. It means that all those who had reason to flee state power, for
+whatever reason, were, in a sense, tribalizing themselves. Ethnicity and tribe
+began, by definition, where sovereignty and taxes ended. The ethnic zone
+'ras feared and stigmatized by state rhetoric precisely because it was beyond
+its grasp and therefore an example ofdefiance and an ever-present temptation
+to those who might wish to evade the state.
+Gellner's analysis ofBerber-Arab -relations is also noteworthy as a long
+overdue corrective to what might be called "the view from the valley" or
+"the view from the state· center." On that view the "barbarian periphery"
+is a diminishing remnant, drawn sooner or later and at varying speeds into
+the light of Arab civilization. In Southeast Asia and the Maghreb this view
+gains credibility because, in the past century, the ungoverned periphery has
+increasingly been occupied by the modern nation-state. Up until then, how 31
+e~er, .the view fro~ the valley-the idea of a luminous and 'magnetic center
+ahgnmg and drawmg in peripheral peoples like so many iron filings-is at
+the very least, half wrong. Up until then a life outside the state was b~th
+more available and more attractive. Oscillation rather than one-way traffic
+was the rule. If the account elaborated here emphasizes state avoidance it
+is not because that is the whole truth. Rather, it is the largely untold st~ry
+that has unfortunately had no legitimate place in the hegemonic narrative of
+civilization, despite its historical importance.
+This m??el.of s~mbiosis and opposition, of political choice and geographIcal facIhtatlOn, IS, roughly speaking, applicable to the historical relationship between hill peoples and valley states in mainland Southeast Asia.
+In Southeast Asia, as in the Maghreb, the distinction between the "governed"
+~nd the "?n~ove~n~d" is, an apparent social fact, but it is even more firmly
+mst~lled m lIngUIstIc usage and popular consciousness. Depending on the
+partIcular cultural context, the connotations ofthe pairs "cooked" and "ravv."
+"tame" and"WI, 'ld""va11ey peop1"e and'"h1l1 people" carry the same weight '
+~s makhazen and siba-that is to say, "governed~' and "ungoverned.' The
+lmkage between being civilized and being a subject ofthe state is so taken for
+granted that the terms subjectpeoples on the one hand orself-governing peoples
+on the other capture the essential difference.
+T?e classicalstates o~ ~outheast Asia were, as in the Middle East, ringed
+by relatIvely free commumtIes: by nonstate spaces and peoples. Such autonomous peoples lived not on!y i~ the hills but also in the marshes, swamps,
+~angrove co~sts, and labyrmthme waterways of estuarial regions. This margma! populatlOn represented, at one and the same time, an indispensable
+tradmg.partner ~f valley kingdoms, a zone ofrefuge from state power, a zone
+ofrelatIVe equahty and physical mobility, a source ofslaves and subjects for
+valley st~tes, ~~d an ecocuIt.ural identity that was nearly a mirror image of
+lowl~nd IdentItIes. Thus, whl1e our attention here is trained on the uplands of
+ZomIa, we are, more generally, concerned with the relationship between state
+spaces and extrastate spaces. The focus on Zomia as a vast interstate massif, in particular, arises simply because ofits importance as the most significant comple~ catc~ment zon~ for refugees from state-making projects in the
+valley~. ~he mhabitants ofthIS zone have come, or remained, here largely because It hes beyond the reach ofthe state. Here, the geographical expression
+Southeast Asia, as conventionally understood as stopping at the borders of
+Southeast Asian nations, is again an impediment to our understanding. Over
+the past two millennia, Zomia has been peopled by countless migrations of
+32 
+populations from well beyond its borders- many ofthem onetime sed.entary
+cultivators. They have fled west and southward from Han, a,nd occasIOnally
+Tibetan, rule (the Tai, the Yao/Mien, the Hmong/Miao, the Lahu, and the
+Akha/Hani) or northward from Thai and Burman rule. Their geographic
+location is a political, cultural, and, often, military decision.
+I argue further that hill peoples cannot be understood in isolation, say,
+as tribes, but only relationally and positionally vis-a-vis valley kingdoms.
+Ethnic distinctions and identity in the hills are not only quite variable over
+time but' also usually encode a group's relative position vis-a-vis state authority. There are, I would hazard, hardly "tribes" at all, except in this limited relational sense of the word. The subsistence practices, the choice of
+crops to grow, are, by the same token, selected largely with an eye to how,
+they facilitate or thwart state appropriation. Finally, as noted earlier, even the
+social structures and re~idence patterns in the hills may be usefully viewed
+as political choices vis-a-vis state power. Certain egalitarian social structures
+reflect, I believe, a Southeast Asian variant of Berber practice: "Divide that
+ye be not ruled. "65 Far from being sociological and cultural givens, lineage
+practices, genealogical reckoning, local leadership patterns, household structures, and perhaps even the degrees of literacy have been calibrated to prevent (and in rare cases to facilitate) incorporation in the state.66 A bold case
+along these lines is subject to many qualifications and exceptions. I venture
+it, nevertheless, not simply to be provocative but because it seems so much
+more in keeping with the evidence than the older traditions ofrelatively selfcontained hill tribes left behind by civilization and progress.
+Toward an Anarchist History of Mainland Southeast Asia
+What blocks a clear view ofthe peoples of mainland Southeast Asia for most
+of their history is the state: classical, colonial, and independent. While a
+state-centric view of, say, the past fifty years might be justified, it represents
+a gross distortion of earlier periods. The earlier the period, the greater the
+distortion. For most of its history, Southeast Asia has been marked by the
+relative absence even of valley states. Where they arose, they tended to be remarkably short-lived, comparatively weak outside a small and variable radius
+of the court center, and generally unable systematically to extract resources
+(including manpower) from a substantial population. Indeed, interregna, far
+from being uncommon, were more protracted than regna, and, before the
+colonial period, a welter of petty principalities allowed much of the popula 33
+tion to shift their residences and loyalties to their advantage or to move to a
+zone of no sovereignty or of mutually canceling sovereignties.
+Where and when they did exist, the states of mainland Southeast Asia
+lurched from solicitous measures designed, to attract subjects to those designed to capture them and?extract as much grain and labor as possible.
+Manpower was the key. Even in those cases wher~ the bulk of the crown's
+revenue derived from trade, that revenue was ultimately dependent on the
+state's ability to mobilize the manpower to hold and defend an advantageous
+position along trade routes.67 The state was tyrannical, but episodically so.
+Physical flight, the bedrock of popular freedom, was the principal check on
+state power. As we shall see in some detail, subjects who were sorely tried by
+conscription, forced labor, and taxes would typically move away to the hills or
+to a neighporing kingdom rather than revolt. Given the vagaries of war, succession struggles, crop failures, and monarchical delusions of grandeur, such
+crises ofstate-building were unpredictable but, sooner or later, inevitable.
+Earlier debates over the writing of Southeast Asian history were about
+how the history ofstates should be written-not about whether states should
+have been the center of attention in the first place. Thus scholars criticized
+Georges Coedes's Indianized States ofSoutheast Asia for missing the purposeful importation and adaptation of Indian cosmology in the court centers of
+Southeast Asia.68 To the distortions of Indian-centric histories were added,
+later, Eurocentric colonial histories in which the local societies were observed
+from "the deck of a ship, the ramparts ofthe fortress, the high gallery ofthe
+trading house. "69 The call was subsequently issued for an "autonomous" history of Southeast Asia that might avoid both distortions.70 And yet until very
+recently indeed, virtually all the responses to that call have themselves been
+histories, however learned and original, ofthe Southeast Asian state.
+Why this should be so, why the histories ofstates should have so persistently insinuated themselves in the place that might have been occupied by a
+history ofpeoples, merits reflection. The reason, in a nutshell, I believe, is ~hat
+state centers, even the tenuous and evan.escent Indic-style classical states, are
+the political units that leave the most concentrated volume of physical evidence. The same is the case for sedentary agricultural settlements, characteristic ofstate centers. While they are not necessarily any more complex than
+foraging or swiddening societies, they are far denser- in the case ofirrigated
+rice, one hundred times denser- than foraging societies, and hence they
+leave far more concentrated rubble in the form of middens, artifacts, building materials, and architectural ruins.71 The larger the pile ofrubble you leave
+34 
+behind, the larger your place in the histori~al rec~r~l T~e more dis.persed,
+mobile, egalitarian societies regardless oftheIr SOphIStlCa~lOn a~d ~r~dm~ networks and despite being often more populous, are relatIvely mVIsible m the
+historical record because they spread their debris more widely.72
+The same logic applies with a vengeance once it comes to the writte.n
+record. Much of what we know about the classical states of Southeast ASIa
+comes from the stone inscriptions and, later, paper trails they left behind in
+the form of land grants, memorials, tax and corvee reco.rds, religious d~nations and court chronicles.73 The thicker the paper traIl you leave behmd,
+the l~rger your place in the historical record. With the written rec~rd, t~e
+distortions also multiply. The traditional words in Burmese and ThaI for hIStory,yazawin and phonesavadan, respectively, both.literally.mea~ "the history
+of rulers" or "chronicle of kings." It becomes dIfficult, In thIS context, to
+reconstruct the life-world of nonelites, even if they are located at the court
+center. They typically appear in the record as statistical abstractions: so many
+laborers, so many conscripts, taxpayers, padi planters, so many bear~rs of
+tribute. Rarely do they appear as historical actors, and when they do, as mthe
+case of a suppressed revolt, you can be sure that something has gon~ terribly
+wrong. The job of peasants, you might say, is to stay out .of th~ ~rc~Ives.
+. Hegemonic histories centered on courts and capItal cItIes mtroduce
+other distortions as well. They are, forcibly, histories of "state spaces"; ~hey
+neglect or ignore altogether both "nonstate spaces" beyon~ their reach and
+the long periods of dynastic decline or collapse when there IS hardly a state at
+all. In a truly evenhanded, year-by-year, chronology of precolonial, mainland
+Southeast Asian states most of the pages would be blank. Are we to pre- , . tend, along with the official chronicles, that because there was no dynasty m
+control there was no history? Beyond the problem of blank pages, however,
+the nat~re of the official histories of the court center systematically exaggerates the power, the coherence, and the majesty of the dynasty.74 The court
+documents that survive are largely tax and land records on the one hand
+and hymns of praise, assertions of power, and claims to legitimacy on the
+other; the latter are meant to persuade and to amplify power, not to report
+facts.75 If we take the cosmological bluster emanating from the court centers
+as indicative offacts on the ground, we risk, as Richard O'Connor has noted,
+"impos[ing] the imperial imaginings of a few great courts on the rest of the
+region. "76 .
+The independent nations of mainland Southeast Asia add a new layer
+of historical mystification. As the successor states, ethnically and geographi 35
+cally, to the classical,kingdoms, they have their own interest in embellishing
+the glory, continuity, and beneficence of their ancestors. Furthermore, the
+histories of the classical states have been mined and distorted in the interest of identifying a protonation and a protonationalism that could be of use
+against contemporary enemies, both foreign and domestic. Thus early artifacts such as Dong Son drums (large bronze ceremonial objects dating from
+roughly 500 BeE to the beginning of the common era 'and found throughout
+highland Southeast Asia and southern China) or local uprisings have been
+appropriated as n~tional and/or ethnic achievements when, at the time, such
+identities made no sense at all. The result is an historical fable that projects
+the nation and its dominant people backward, obscuring discontinuity, contingency, and fluid identities.77 Such accounts serve, as Walter Benjamin reminded us, to naturalize the progre$sion and necessity ofthe state in general
+and the nation-state in particular.78
+The inadequacies of mandala, dynastic, capital-city, text-based histories are so manifest, even when read skeptically, that they are chiefly useful
+as self-interested descriptions and cosmological claims. During the greater
+part ofthe historical record, and especially in the uplands, there was no state
+or "hardly-a-state." What states there were tended to be personal creations
+that were tenuous and fragmented, and that seldom outlasted their founder
+by long. Their cosmological claims and ideological reach were far greater than
+their practical control over human labor and grain.79
+Here it is crucial to distinguish the "hard" power of the state from its
+economic and symbolic influence, which was far wider. The precolonial state,
+when it came to extracting grain and labor from subject pop~lations, could
+project its power only within a fairly small radius ofthe court, say, three hundred kilometers, and that undependably and only during the dry season. The
+economic reach ofthe precolonial state, on the other hand, was far wider but
+based on voluntary exchange. The higher the value and smaller the weight
+and volume of the commodity (think silk and precious gems as opposed to
+charcoal or grain), the greater the reach. The symbolic reach ofthe s'tate -its
+regalia, titles, costumes, its cosmology-traveled far and wide as ideas that
+have left a deep impression in the hills, even as they were often deployed in
+revolts against valley kingdoms. While the valley kingdom's hard power was
+a minute fraction of its expansive imperial imaginings, its reach as a market
+of physical or, especially, symbolic commodities was far greater.
+What ifwe replaced these "imperial imaginings" with a view of Southeast Asian history as dominated by long periods of normative and normal-
+36 
+ized statelessness, punctuated by occasional, and usually brief, dynastic states
+that, when they dissolved, left in their wake a new deposit ofimperial imaginings? In a critique of overly state-centric histories, Anthony Day points us
+in just this direction: "What would the history of Southeast Asia look like,
+however if we were to take the turbulent relations between families as nor- , mative rather than a departure from the norm of the absolutist state which
+must 'deal with disorder'?"80
+The Elementary Units of Political Order
+Abandoning the tunnel vision of the court-state view, as urged by Day and
+O'Connor and actually pursued some considerable distance by Keith Taylor,
+we attempt an account ofthe elementary units of political order in mainland
+Southeast Asia.81 I emphasize the term political order to avoid conveying the
+mistaken impression that outside the realm ofthe state lay mere disorder. Depending on the location and date, such units might range from nuclear families to segmentary lineages, bilateral kindreds, hamlets, larger villages, towns
+and their immediate hinterlands, and confederations ofsuch towns. Confederations appear to constitute the most complex level of integration that had
+any stability at all. They consisted ofsmall towns located on terrain favorable
+to wet-rice cultivation, with its concentration of population, together with an
+allied population in the adjacent hills. Alliances ofsuch "wet-rice archipelagoes" were common, although they too were short-lived and their constituent
+members rarely surrendered their freedom of action. Traces of these patterns survive in place names throughout the entire region: Xishuang Banna
+("twelve village rice fields") in Yunnan, Sipsong Chutai ("twelve Tai lords")
+along the Vietnamese-Laotian border and Negri Sembilan ("nine realms")
+in western Malaysia, and Ko Myo ("nine towns") in Burma's Shan states. In
+this respect, the largest quasi-permanent building blocks in the region were
+the Malay negeri/Negara, the Tai muang, and the Burmese main (~6:), each
+ofwhich represented a potential fund ofmanpower and grain, located, in the
+most favorable cases, athwart a valuable trade route;
+Assembling such potential nodes of power into a political and military alliance was itself a small, and usually evanescent, miracle ofstatecraft.
+Bringing many such units together under central rule was exceptionally rare
+and normally short-lived. When the political confection it represented disintegrated, it tended to fragment into its constituent units: the petty statelets, small villages, hamlets, and lineages. New agglomerations might arise,
+ 37
+orchestrated by a new and ambitious political entrepreneur, but they were
+always a contingent alliance ofthe same elementary units. The symbolic and
+ideological format for state-making was known and observed by ambitious
+local leaders with even the slightest pretense to wider power. State mimicrywhat I have called cosmological bluster-was copied from the Chinese or
+Indic high forms, with rudimentary materials and in miniature, right down
+to the most petty village chiefs.
+If larger political units were radically unstable, the elementary units
+themselves were hardly timeless blocks of building material. We must see
+these units themselves as in almost constant motion: dissolving, splitting, relocating, merging, and reconstituting. The households and individuals within
+a hamlet or lineage were themselves in motion over time. A settlement might
+remain in place over, say, half a century, but because ofresidents coming and
+leaving, their linguistic and ethnic identification might shift dramatically.82
+Here demography played a central role, the population density in Southeast
+Asia being, in 1600, one-sixth that of India and one-seventh that of China.
+The existence of an open frontier operated like an automatic brake on what
+the state could extract. Motivated by factors as disp'arate as epidemics, famines, taxes, corvee labor, conscription, factional conflict, religious schism,
+shame, scandal, and the desire to change one's luck, it was relatively simple
+for households and entire villages to move. Thus, over time, the membership
+of any elementary unit was in flux, as was the very existence ofthe unit itself.
+Ifthere was an element ofstability here, it resided in the ecology and geography of places favorable to human settlements. A well-watered plain situated
+on a navigable river or a trade route might occasionally be abandoned, but it
+was just as likely to be reinhabited when conditions permitted. Such locations were, of course, the typical cores ofthe negeri, the muang, the main.
+Fluid as they were, these elementary units were the only building
+blocks available to the would-be state-maker. In the absence of an ambitious
+strongman, or when the wider polity inevitably shattered,the "remains" , were
+once again the elementary units. Is an intelligible history possible under such
+circumstances? I believe that it is, although it is surely not a dynastic history.
+The units in question do have a history, do observe a rough logic in formation,
+combination, and dissolution, and do exhibit a certain autonomy vis-a.-vis dynastic or modern states. They have a history, but that history is on a different
+plane from state or dynastic history. For all their fluidity, they are the relatively constant features ofthe landscape, while'the successful dynastic state is
+rare and ephemeral. The contingency ofthe "state" invites us to treat it less
+38 
+as a unity than as a "complex web of contractual mutualities."83 For when
+it does splinter, as Akin Rabibhadana observed about the early nineteenthcentury Siamese state, "the component parts ofthe system tended to split off
+in order to save their own lives."84
+Making sense ofinnumerable small units, seemingly in constant movement, might seem impossible. It is surely more daunting than dynastic history, but we are not without guidance from those who have sought to understand comparable systems. In the case of Southeast Asia, there are many
+studies of social structure that seek to grasp the logic behind the fluidity.
+First, most famous, and most controversial among them is Edmund Leach's
+Political Systems ofHighland Burma. Subsequent work along these lines in
+the highlands, not to mention studies of the Malay world, where shifting
+petty states, a mobile population, and a distinction between upstream and
+downstream, unruled and ruled populations also is at work, is richly suggestive. Beyond Southeast Asia, however, we may look again to the encounter
+between states and nomadic, stateless populations in the Middle East. The
+case for beginning with the elementary unit of the household and treating
+villages, tribes, and confederations as provisional and shaky alliances has also
+been used to brilliant effect for eighteenth-century North American society
+in the Great Lakes region by Richard White.85 And, finally, we may profitably look back to Thucydides' Peloponnesian War, which describes a world of
+peoples, some with kings, some without, whose fickle loyalties and unreliable
+cohesion is a source of constant anxiety to the statesmen of each ofthe major
+antagonists: Athens, Sparta, Corinth, and Syracuse-each of them, in turn,
+a confederation.86
+One challenge for a non-state-centric history of mainland Southeast
+Asia consists in specifying the conditions for the aggregation and disaggregation of its elementary units. The problem has been succinctly put by one
+observer ofa somewhat comparable flux between states and their autonomous
+hinterlands: "There comes a time when one realizes that one is dealing, really,
+with molecules whichsometimes unify in the form of a vague confederation,
+sometimes, just as easily, disaggregate. Even their names offer no consistency
+or certainty."87 Ifthe fluidity ofthe molecules themselves is an inconvenience
+for anthropologists and historians, imagine the problem it poses for the dynastic official or would-be state-builder, the colonial official, and the modern
+state functionary. State rulers find it well nigh impossible to install an.effective sovereignty over people who are constantly in motion, who have no permanent pattern of organization, no permanent address, whose leadership is
+ 39
+ephemeral, whose subsistence patterns are pliable and fugitive, who have few
+permanent allegiances, and who are liable, over time, to shift their linguistic
+practices and their ethnic identity.
+And this is just the point! The economic, political, and cultural organization ofsuch people is, in 'large part, a strategic adaptation to avoid incorporation in state structures. These adaptations are all the more feasible
+in the mountainous hinterlands ofstate systems: that,: is to say, in places like
+Zomia.
+Here [Sumatra] I am the advocate of despotism. The strong arm of power is
+necessary to bring men together, and to concentrate them into societies. . ..
+Sumatra is, in great measure, peopled by innumerable petty tribes, subject to
+_ no general government.... At present people are as wandering in their habits
+as the birds of the air, and until they are congregated and organized under
+some~hing like authority, nothing can be done with them.ss
+In the early nineteenth century, as in the classical mainland states, Sir Stamford Raffles, quoted above, understood that the precondition of colonial rule
+was the concentration of population and sedentary agriculture. He required
+a nonfugitive people whose labor and production were legible and hence appropriable by the state. We turn our attention next, then, to an understanding
+of the logic and dynamics behind the creation of state spaces in mainland
+Southeast Asia.
+CHAPTER 2
+State Space
+Zones ofGovernance and Appropriation
+The Geography of State Space and the
+Friction ofTerrain
+Put vegetables in the basket.
+Put people in the muang.
+- Thai proverb
+I
+magine, for a moment, that you are a Southeast Asian counterpart of
+Jean-Baptiste Colbert, chief minister to Louis XlV. You, like Colbert,
+are charged with designing the prospe:ity ofthe kingdom. The settin~,
+like that of the seventeenth century, IS premodern: overland travel IS
+by foot, cart, and draft animals, while watertransportation is by sail. Let us
+finally imagine that, unlike Colbert, you begin with a blank slate. You are
+free to conjure up an ecology, a demography, and a geography that would be
+most favorable to the state and its ruler. What, in those circumstances, would
+you design?
+Your task, crudely put, is to devise an ideal "state space": that is to say,
+an ideal space of appropriation. Insofar as the state depends on taxes or rents
+in the largest possible sense of the term (foodstuffs, corvee labor, soldiers,
+tribute, tradable goods, specie), the question becomes: what arrangements
+are most likely to guarantee the ruler a substantial and reliable surplus of
+manpower and grain at least cost?
+The principle of design must obviously hinge on the geographical concentration ofthe kingdom's subjects and the fields they cultivate wit~in easy
+STATE SPACE 41
+reach ofthe state core. Such concentration is all the more imperative in premodern settings where the economics of oxcart or horse-cart travel set sharp
+limits to the distance over which it makes sense to ship grain. A team of
+oxen, for example, will have eaten the equivalent ofthe cartload of grain they
+are pulling before they have traveled 250 kilometers over flat terrain. The
+logic, albeit with different limits, is captured in an ancient Han proverb: "Do
+not make a grain sale over a thousand li'~ -415 kilometers.! The non-grainproducing elite~; artisans, and specialists at the state's core must, then, be fed
+by cultivators who are relatively n~ar. The concentration ofmanpower in the
+Southeast Asian context is, in turn, particularly imperative, and particularly
+difficult, given the histo,~icallow population-to-Iand ratio that favors demographic dispersal. Thus the kingdom's core and its ruler must be defended
+and maintained, as well as fed, by a labor supply that is assembled relatively
+close at hand.
+From the perspective of our hypothetical Colbert, wet-rice (padi,
+sawah) cultivation provides the ultimate in state-space crops. Although wetrice cultivation may offer a lower r~te of return to labor than other subsistence techniques, its return per unit of land is superior to almost any other
+Old World crop. Wet rice thus maximizes the food supply within easy reach
+ofthe state core. The durability and relatively reliable yields of wet-rice cultivation would also recommend it to our Colbert. Inasmuch as most of the
+nutrients are brought to the field by the water from perennial streams or by
+the silt in the case of "flood-retreat agriculture," the same fields are likely
+to remain productive for long periods. Finally, and precisely because wet
+rice fosters concentrated, labor-intensive production, it requires a density of
+population that is, itself, a key resource for state-making.2
+Virtually everywhere, wet rice, along with the other major grains, is the
+foundation ofearly state-making. Its appeal to a hypothetical Colbert does not
+end with the density of population and foodstuffs it makes possible. From a
+tax collector's perspective, grains have decisive advantages over, for examI3!,e,
+root crops. Grain, after all, grows aboveground, and it typically and predictably all ripens at roughly the same time. The tax collector can survey the crop
+in the field as it ripens and can calcula;te in advance the probable yield. Most
+important of all, ifthe army and/or the'tax collector arrive on the scene when
+the crop is ripe, they can confiscate as much ofthe crop as they wish.3 Grain,
+then, as compared with root crops, is both legible to the state and relatively
+. appropriable. Compared to other foodstuffs, grain is also relatively easy to
+transpo~t, has a fairly high value per unit of weight and volume, and stores
+42 STATE SPACE
+for relatively long periods with less spoilage, especially ifit is left unhusked.
+Compare, for example, the relative value and perishability of a cartload of
+padi, on the one hand, and a cartload of, say, potatoes, cassava, mangoes, or
+green vegetables. IfColbert were called on to design, from scratch, an ideal
+state crop, he could hardly do much better than irrigated rice.4
+No wonder, then, that virtually all of the premodern state cores in
+Southeast Asia are to be found in ecological settings that were favorable to
+irrigated rice cultivation. The more favorable and extensive the setting, the
+more likely a state of some size and durability would arise there. States, it
+should be emphasized, did not typically, at least until the colonial era, construct these expanses of padi'fields, nor did they play the major role in their
+maintenance. All the evidence points to the piecemeal elaboration of padi
+lands by kinship units and hamlets that built and extended the small diversion dams, sluices, and channels required for water control. Such irrigation
+works often predated the creation ofstate cores and, just as frequently, survived the collapse ofmany a state that had taken temporary advantage of its
+concentrated manpower and food supply.5 The state might batten itself onto
+a wet-rice core and even extend it, but rarely did the state create it. The relationship between states and wet-rice cultivation was one of elective affinity,
+not one of cause and effect.
+The realpolitik behind this elective affinity is evident in the fact that
+"for l;:uropean governors and Southeast Asian rulers alike, large settled
+,P2pulations supported by abundant amounts of food were seen as the "key
+to authority and power."6 Land grants in ninth- and tenth-century Java, for
+which we have inscriptional evidence, were made on the understanding that
+the recipients would clear the forest and convert shifting, swidden plots into
+permanent irrigated rice fields (sawah). The logic, as Jan Wisseman Christie
+notes, is that "sawah ... had the effect of anchoring populations and increas-
+."" ,ing their visibility, and making the size ofthe crop relatively stable and easy
+to calculate."? No effort was spared, as we shall see in more detail, to attract
+and hold a population in the vicinity of the court and to require it to plant
+padi fields. Thus Burmese royal edicts of 1598 and 1643, respectively, ordered
+that each soldier remain in his habitual place of residence, near the court
+center, and required all palace guards not on duty to cultivate their fields.8
+The constant injunctions against moving or leaving the fields fallow are, if
+we read such edicts "against the grain," evidence that achieving these goals
+met with a good deal of resistance. When such goals were approximated,
+however, the result was an impressive "treasury" of manpower and grain at ,
+STATE SPACE 43
+~e mon~rch's disposal. Such seems to have been the case at Mataram, Java,
+m the mid-seventeenth century, when a Dutch envoy remarked on "the unbeliev~bly grea: rice fields which are all around Mataram for a day's travel
+and Wlth them mn~me.rablevillages." The resources ofmanpower at the cor~
+wer.e 110t ~:>nly crucl~l for food production; they were militarily essential to the
+defense .and expanslOn. of ~he stat~ against its rivals. The decisive advantage
+of agranan state~ of this kl1~d agamst their maritime competitors appears to
+have rested ~re~lsely on their numerical superiority in fielding soldiers.
+!he fnctlOn of terrain set up sharp, relatively inflexible limits to the
+effectlve reach of t~e traditiona~ agrarian state. Such limits were essentially
+fixe~, as noted earlier, by the difficulty of transporting bulk foodstuffs. Assummg level terr~in and good roads, the effective state space would have
+become tenuou~ mdeed beyond a radius of three hundred kilometers. In
+one ~ense, the difficulty of moving grain long distances, compared with the
+relative ease ?f human pedestrian travel, captures the essential dilemma of
+S?uthea~t ASian statec~aft b~fore t?e late nineteenth century. Provisioning
+t~e state score populatlOn With gram ran up against the intractable limits of
+dlstanc~ and har:est fluctuations, while the population sequestered to plant
+that gram found it all too easy to walk beyond the reach ofstate control. Put
+another way, the friction and inefficiencies of the oxcart worked to constrict
+the food sup~ly ava~lable to the state core, whereas the relatively frictionless
+mo:ement ofItS subjects by foot-a movement the premodern state could not
+easl1y prevent-threatened to deprive it of grain growers and defenders.9
+!~e stark s~atistical facts ofpremodern travel and transportation make
+the fnctlOn-of-dlstance comparisons between water and land abundanti
+~lear. As a rule ofthumb, most estimates oftravel by foot,assuming an obli;
+mgly flat, ?ry terrain, converge around an average oftwenty-four kilometers
+(fifteen ml1es) day. A strong porter carrying a thirty-six-kilograrn (eightypound) l?ad mIght move nearly as far under very favorable conditions. Once
+the terram b.ecom~s ~o:e rugged .orthe weather more challenging (or poth),
+h?wever, th1.S op~lm1st1c figure IS dramatically reduced. The ca'lculus is
+shghtly modlfied m premodern Southeast Asia, and particularly in warfare
+by t~e use of e~ephants, which could carry baggage and negotiate difficul~ terra1~, but theIr numbers were modest and no military campaign depended
+essentIally on them.lO
+. What might be called state travel through difficult hilly terrain was
+conSIderably ~lower. O~e o~ the rare surviving documents (860 CE) from the
+Tang dynasty s expanSIOn Into the mountainous areas of mainland South-
+...)
+44 STATE SPACE
+east Asia begins with the critical military information about travel times,
+expressed in day-stages, between population centers that were nodes ofimperial control.ll A millennium later, the same preoccupation is apparent. A
+representative example is the trip made by Lieutenant C. Ainslie in January
+(the dry season) 1892 through the eastern Shan states to assess the political
+loyalties of the chiefs and to survey routes of march. He was accompanied
+by one hundred military policemen, five Europeans, and a large number of
+pack mules, together with their drivers. He used no wheeled transport, presumably because the tracks were too narrow. Ainslie prospected two parallel
+routes between Pan Yang and Mon Pan, a nine-day trip. He reported on
+the difficulty of each day's stage and the number of rivers and streams that
+had to be crossed, noting in passing that the route was "impassible in the
+rains."12 The daily average distance covered was barely more than thirteen
+kilometers (eight miles), with considerable daily variation: a maximum ofless
+than twenty kilometers and a minimum of barely seven.
+A bullock cart can, of course, carry anywhere from seven to ten times
+(240 -360 kilograms) the load of a fit individual porter.13 Its movements, however, are both slower and more restricted. Where the porter requires only a
+footpath, the bullock cart requires a broader track. In some terrain, this is
+impossible; anyone familiar with the deeply rutted cart tracks in backcountry
+Burma will appreciate how slow and laborious the going is even when such
+travel is possible. For a trip of any length the carter must either carry his .own
+fodder, thereby reducing the payload, or adjust the route to take advantage
+of fodder growing along it.14 Until a century or two ago, even in the West,
+the overland transport of bulk commodities "has been subject to narrow and
+essentially inflexible limits. "15
+These geographical givens of movement of people and goods set limits
+to the reach of any landward state. Extrapolating from a more generous
+estimate of 32 kilometers a day by foot, F. K. Lehman estimates that the
+precolonial state's maximum size could not have been much more than 160
+kilometers in diameter, although Mataram in Java was considerably broader.
+Assuming a court roughly in the center of a circular kingdom with a diameter of, say, 240 kilometers, the distance to the kingdom's edge would be 120
+kilometers.16 Much beyond this point, even in flat terrain, state power would
+fade, giving way to the sway ofanother kingdom or to local strongmen andlor
+bandit gangs. (See map 3 for an illustration ofthe effect ofterrain on effective
+distances.)
+Water transport, however, is the great premodern exception to these
+I
+STATE SPACE 45
+limits. Navigable water nullifies much of the friction of distance. Wind and
+currents make it possible to move bulk goods in large quantities over distances that are inconceivable using carts. In thirteenth-century Europe, according to one calculation, shipping costs by sea were a mere 5 percent ofthe
+cost by land. The disparity was so massive as to confer a large strategic and
+trade advantage on any kingdom near a navigable water~ay. Most Southeast
+Asian precolonial states ofany appreciable size had easyaccess to the sea or to
+a navigable river. In fact, as Anthony Reid notes, the capitals ofmost Southeast Asian states were located at river junctions where oceangoing ships had
+to transfer their cargoes to smaller craft plying the upstream reaches of the
+.river. The location of nodes of power coincided largely with the intersecting
+nodes of communication and transportationP
+The key role ofwater transportation before the construction ofrailroads
+is evident in the great economic significance of canals, where the draft power
+was often the same - horses, mules, oxen- but the reduction offriction made
+possible by barges moving over water allowed for huge gains in efficiency.
+River or sea transportation takes advantage of "routes of least friction," of
+least geographical resistance, and thereby vastly extends the distances over
+which food supplies, salt, arms, and people can be exchanged. In epigrammatic form, we could say that "easy" water "joins," whereas "hard" hills,
+swamps, and mountains "divide." ,
+Before the distance-demolishing technology ofrailroads and all-weather
+motor roads, land-bound polities in Southeast Asia and Europe found it
+extremely difficult, without navigable waterways, to concentrate and then
+project power. As Charles Tilly has noted, "Before the later nineteenth century, land transport was so expensive everywhere in Europe that no country
+could afford to supply a large army or big city with grain and other heavy
+goods without having efficient water transport. Rulers fed major inland cities
+such as Berlin and Madrid only at great effort and great cost to their hinterlands. The exceptional efficiency of waterways in the Netherlands undoubtedly gave the Dutch great advantages at peace and war."18
+The daunting military obstacles presented by travel over very rugged
+terrain, even in the mid-twentieth century, was never more· evident than
+in the conquest of Tibet by the China's People's Liberation Army in 1951.
+Tibetan delegates and party representatives who signed the agreement in
+Beijing traveled b~ck to Lhasa via, "the quicker route": namely by sea to
+Calcutta, then by train and horseback through Sikkim. Travel from Gongtok, Sikkim, to Lhasa alone took sixteen days. Within six months the PLA
+STATE SPACE 47
+advance force in Lhasa was in danger ofstarving, and three thousand tons of
+rice was dispatched to them, again by ship to Calcutta and thence by mule
+over the mountains. Food came as well from Inner Mongolia to the north,
+but this required the astounding mobilization oftwenty-six thousand camels,
+more than half of whom perished or were injured en route.19
+The standard modern maps, in which a kilometer is a kilometer no
+matter what the terrain or body ofwater, are therefore profoundly misleading
+in this respect. Settlements that may be three hundred or four hundred kilometers distant over calm, navigable water are far more likely to be linked by
+social, economic, and cultural ties than settlements a mere thirty kilometers
+away over rugged, mountainous terrain. In the same fashion, a large plain
+that is easily traversed is far more likely to form a coherent cultural and social
+whole than a small mountainous zone where travel is'slow and difficult.
+Were we to require a map that was more indicative of social and economic exchange, we would have to devise an entirely different metric for
+mapmaking: a metric that corrected for the friction ofterrain. Before the midnineteenth century revolution in transportation, this might mean constructing a map in which the standard unit was a day's travel by foot or oxcart (or
+by sailing vessel). The result, for those accustomed to standard, as-the-crowflies maps, would look like the reflection in a fairground funhouse mirror.2o
+Navigable rivers, coastlines, and flat plains would be massively shrunken to
+reflect the ease of travel. Difficult-to-traverse mountains, swamps, marshes,
+and forests would, by contrast, be massively enlarged to reflect travel times
+even though the distances, as the crow flies, might be quite small. Such maps,
+Map 3. The striking constriction ofstate space imposed by rugged landscape may be
+illustrated by a map 'that compares wa~king times from a central place, depending on
+the difficulty ofthe terrain. Here we have selected Mung (Muang) Yang, a Shan town
+near the Burma-Chinese border, for illustrative purposes. The walking-time isolines
+shown here are based on Waldo Tobler's "hiker function," an algorithm that esti111ates
+the rate oftravel possible based upon the slope at any given point on the landscap'e.
+These isolines show the travel distance possible assuming a six-hour walking day. The
+travel distances possible on flat terrain, based upon the Tobler algorithm, are shown in
+dotted lines for 'comparison. Setting out from Mung Yang, a traveler takes three days
+to cover the distance that, were the land flat, one could cover in a day and a half or two
+days. Travel is more difficult to the south and northwest than to, the east. Ifwe assume
+that the span ofcontrol varies directly with the ease oftravel, than the total area under
+control of a hypothetical statelet centered on Mung Yang would be less than one-third
+of what it might be over level terrain.
+48 STATE SPACE
+however strange to the modern eye, would be far superior guides to contact,
+culture, and exchange than the ones to which we have grown accustomed.
+They would also, as we shall see, help demarcate the sharp difference between
+a geography more amenable to state control and appropriation (state space)
+and a geography intrinsically resistant to state control (nonstate space).
+A map in which the unit ofmeasurement is not distance but the time of
+travel is, in fact, far more in accord with vernacular practices than the more
+abstract, standardized concept of kilometers or miles. If you ask a Southeast
+Asian peasant how far it is to the next village, say, the answer will probably be
+in units oftime, not oflinear distance. A peasant quite familiar with watches
+might answer "about half an hour," and an older farmer, less familiar with
+abstract time units, might reply in vernacular units, "three rice-cookings"
+or "two cigarette-smokings" -units of duration known to all, not requiring
+a wristwatch. In some older, precolonial maps, the distance between any two
+places was measured by the amount of time it took to travel from one to the
+other.21 Intuitively this makes obvious sense. Place A may be only twenty-five
+kilometers from place B. But depending on the difficulty oftravel, it could be
+a two-day trip or a five-day trip, something a traveler would most surely want
+to know. In fact, the answer might vary radically depending on whether one
+was traveling from A to B or from B to A. IfB is in the plains and A is high
+in the mountains, the uphill trip from B to A is sure to be longer and more
+arduous than the downhill trip from A to B, though the linear distance is the
+same.
+A friction of distance map allows societies, cultural zones, and ~ven
+states that would otherwise be obscured by abstract distance to spring ,suddenly into view. Such was the essential insight behind Fernand Braudel's
+analysis of The Mediterranean World. Here was a society that maintained itself
+by the active exchange of goods, people, and ideas without a unified "territory" or political administration in the usual sense ofthe term.22 On a somewhat smaller scale, Edward Whiting Fox argues that the Aegean of classical
+Greece, though never united politically, was a single, social, cultural" and
+economic organism, knit together by thick strands ,of contact and exchange
+over easy water. The great "trading-and-raiding" maritime peoples, such as
+the Viking and Normans, wielded a far-flung influence that depended on fast
+water transport. A map oftheir historical influence would be confined largely
+to port towns, estuaries, and coastlines.23 Vast sea spaces between these would
+be small.
+The most striking historical example ofthis phenomenon was the Malay
+world- a seafaring world par excellence- whose cultural influence ran all the
+STATE SPACE 49
+way from Easter Island in the Pacific to Madagascar and the coast ofSouthern
+Africa, where the Swahili spoken in the coastal ports bears its imprint. The
+Malay state itself, in its fifteenth- and sixteenth-century heyday, could fairly
+be called, like the Hanseatic League, a shifting coalition oftrading ports. The
+elementary units of statecraft were ports like Jambi, Palembang, Johor, and
+Melaka, and a Malay aristocracy shuffled between them; depending on political and trade advantages. Our landlocked sense of a "kingdom" as consisting
+of a compact and contiguous territory makes no sense when confronted with
+such maritime integration across long distances.
+An agrarian kingdom is typically more self-contained than a maritime
+kingdom. It disposes of reserv~s offood and manpower close to home. Nevertheless, even agrarian kingdoms are far from self-sufficient; they depend for
+their survival on products outside their direct control: hill and coastal products such as wood, ores, protein, manure from pastoralists' flocks, salt, and so
+on. Maritime kingdoms are even more dependent on trade routes to supply
+their necessities, including, 'especially, slaves. For this reason, there are what
+might be called spaces of high "stateness" that do not depend on local grain
+production and manpower. Such locations are strategically situated to facilitate the control (by taxes, tolls, or confiscation) of vital trade products. Long
+before the invention of agriculture, those societies controlling key deposits
+of obsidian (necessary for the best stone tools) occupied a privileged position
+in terms of exchange and power. More generally thyre were certain strategic
+choke points on land and water trade routes, the control ofwhich might confer decisive economic and political advantages. The Malay trading port is the
+classical example, typically lying athwart a river junction or estuary,allowing
+its ruler to monopolize trade in upstream (hulu) export products and similarly to control the hinterland's access to trade goods from downstream (hilir)
+coastal and international commerce. The Straits ofMalacca were, in the same
+fashion, a choke point for long-distance trade between the Indian Ocean and
+China and thus a uniquely privileged space for state-making. On a smaller
+scale, innumerable hill kingdoms sat astride important caravan routes 'for salt,
+slaves, and tea, among other goods. They waxed and waned depending on
+the vagaries ofworld trade and commodity booms. Like their larger Malay
+cousins, they were, at their most peaceful, "toll" states.
+Positional advantages ofthis kind are only partly a matter of ~he terrain
+and sea lanes. They are, especially in the modern era, historically contingent
+0n revolutions in transport, engineering, and industry: for example, rail and
+road junctions, bridges and tunnels, coal, oil, and natural gas deposits.
+Our crude first approximation ofstate space as the concentration ofgrain
+50 STATE SPACE
+production and manpower in a manageable space must then be modified. The
+distance-demolishing properties of navigable water routes and the existence
+of nodes of power represented by choke points and strategic commodities
+can compensate for deficiencies in grain and manpower close at hand, but
+only to a point. Without sufficient manpower, it is frequently difficult for toll
+states to hold onto the site that confers a positional advantage. In the case of a
+showdown, agrarian states have generally been able to prevail over maritime
+or "trade-route" states by force of numbers. The disparity is highlighted by
+Barbara Andaya's comparison of the Vietnamese Trinh (an agrarian state)
+and Johore (a maritime state) at the beginning of the eighteenth century:
+"The point can be made clearly by comparing the armed forces ofJohore,
+the most prestigious ofthe Malay States, but one without any agrarian base,
+with those ofthe Trinh. In 1714, the Dutch estimated thatJohor could bring
+into battle 6,500 men and 233 vessels of all types. In Vietnam~ by contrast,
+the Nguyen army was tallied at 22,740 men, including 6,400 marines and
+3,280 infantry." 24 The earliest cautionary tale ofmaritime-state vulnerability
+is, of course, Thucydides' Peloponnesian War, in which a resolutely maritime
+Athens is, finally, undone by its more agrarian rivals, Sparta and Syracuse.
+Mapping State Space in Southeast Asia
+State-building in precolonial mainland Southeast Asia was powerfully constrained by geography. Here, in a rough and ready way, I shall attempt to
+outline those major constraints and their effects on the location, maintenance,
+'and power dynamics ofsuch states.
+The necessary, but by no means sufficient, condition for the rise of a
+substantial state was the existence of a large alluvial plain suitable for the
+cultivation ofirrigated rice and hence capable ofsustaining both a substantial
+and concentrated population. Unlike maritime peninsular Southeast Asia,
+where the ease of movement over the calm waters of the Sunda Shelf permitted the coordination of a far-flung thalassocracy on the order of Athens,
+mainland states had to contend with far higher levels of geographical friction. Because ofthe generally north-south direction of mountain ranges and
+major rivers in the region, .virtually all ofthe classical states were to be found
+along the great north-south river systems. They were, moving from west to
+east, the Burman classical states along the Irrawaddy near its confluence with
+the Chindwin (Pagan, Ava, Mandalay) or along the Sittang not far to the
+east (Pegu, Toungoo); the Thai classical state (Ayutthaya and, much later,
+Bangkok, along the Chao Phraya); the Khmer classical state (Angkor and its
+STATE SPACE 51
+successors) near the great lake ofTonIe Sap, a tributary of the Mekong; and
+finally, the early heartland of the Kinh (Trinh) classical state along the Red
+River in the vicinity ofHanoi.
+The common denominator here is that all such states have been created
+near navigable water courses, but above the flood plain, where a flat, arable
+plain and perennial streams made wet-rice cultivation possible. It is striking
+that none ofthe early mainland states was located in the 'delta ofa major river.
+Such delta regions-the Irrawaddy, the Chao Phraya, and Mekong-were
+settled in force and planted to wet rice only in the early twentieth century.
+The reasons for their late development, apparently, are that 1) they required
+extensive drainage works to be made suitable for rice cultivation, 2) they
+were avoided because they were malarial (especially when newly cleared), and
+3) the annual flooding was unpredictable and often devastating.25 This bold
+generalization, however, needs to be clarified and qualified. First, the political,
+economic, and cultural influence emanating from such centers of power, as
+Braudel would have predicted, spread most easily when least impeded by the
+friction of distance-along level terrain and navigable rivers and coastlines.
+Nothing illustrates this process more strikingly than the gradual, intermittent displacement ofCham and Khmer populations by the Vietnamese. This
+expansion followed the thin coastal strip southward, with the coast serving
+as a watery highway leading, eventually, all the way to the Mekong Delta and
+the trans-Bassac. -
+The economic reach of such state centers was almost always greater
+than their political reach. While their political. control was limited by their
+degree of monopoly access to mobilized manpower and food supplies, their
+influence on trade might reach considerably farther. The friction of distance
+is at work here too; the greater the exchange value of a product vis-a-vis its
+weight and volume, the greater the distance over which it might be traded.
+Thus precious commodities such as gold, gemstones, aromatic woods, rare
+medicines, tea, and ceremonial bronze gongs (important prestige goods in
+the hills) linked peripheries to centers on the basis of exchange rather than
+political domination. On this basis, the geographical scope ofcertain forms of
+trade and exchange, requiring no bulk transport, was far more extensive than
+the comparatively narrow range within which political integration might be
+achieved.
+I have thus far considered only the major classical states in mainland
+Southeast Asia. The key condition for state formation was present elsewhere
+as well: a potential heartland of irrigated rice cultivation that might constitute a "f1:lly-administered territorial nucleus, having a court capital at its
+STATE SPACE 53
+center."26 The difference was purely a matter ofscale. Where the heartland
+of irrigated rice was large and contiguous, it might, under the right conditions, facilitate the rise of a major state; where the heartland was modest, it
+might, also under the right conditions, give rise to a modest state. A state on
+this account would be a fortified town of, say, at least six thousand subjects
+plus nearby hill allies, situated on wet-rice plain an,d having, in theory at
+least, a single ruler. Scattered throughout mainland'Southeast Asia, often
+at fairly high altitudes, one finds the agro-ecological conditions that favor
+state formation, usually on a more Lilliputian scale. Most such places were
+at one time or another the sites ofsmall Tai statelets. More rarely, leagues or
+confederacies ofsuch statelets might combine, briefly, to forge a more formidable state. State formation around wet-rice cores, large or small, was always
+contingent and, typically, ephemeral. One might emphasize with Edmund
+Leach the fact that "the riceland stayed in one place" and thus represented a
+potential ecological and demographic strong point, which a clever and lucky
+political entrepreneur might exploit to create a new, or revived, state space.
+Even a successful dynasty was by no means a Napoleonic state; it was rather
+a shaky hierarchy ofnested sovereignties. To the degree that it held together,
+the glue was a prudent distribution ofspoils and marriage alliances and, when
+necessary, punitive expeditions for which, in the final analysis, control over
+manpower was vital.
+Our conception of what constituted precolonial Burma must therefore
+be adjusted according to these basic principles of appropriation and span of
+control. Under a robust, flourishing dynasty, "Burma," in the sense of an
+effective political entity, consisted largely of wet-rice core areas within a few
+days' march from the court center. Such wet-rice areas need not necessarily
+be contiguous, but they had to be relatively accessible to officials and soldiers from the center via trade routes or navigable waterways. The nature
+of the routes of access was itself crucial; an army on its way to collect grain
+or to punish a rebellious district had to provision itself en route. This meant
+Map 4. Rivers and classical states of Southeast Asia: The coincidence of classical states
+with navigable water courses is the general rule, as the map' illustrates. The Salween/
+Nu/Thanlwin River spawned only one classical state, Thaton, at its estuary. For much
+ofits long course, the Salween runs through deep gorges and is not navigable. It is,
+solely for this reason, an exception. Keng Tung and Chiang Mai are also exceptions
+in the sense that neither is located close to a major navigable river. Each, however,
+commands a large, arable plain suitable for padi cultivation and hence for state-making.
+o 200 KM
+ELEVATION
+IN METERS
+11& 0-200
+11& 201-500
+501- 1,500
+W 1,501 - 8,752
+Map s. Elevation in central Burma: The "reach" ofthe precolonial state, at its most
+robust, stretched most easily along the low elevation plains and navigable river courses.
+All ofthe upper Burma kingdoms hugged the Irrawaddy above or below its confluence
+with the Chindwin. The Shan Hills to the east of Mandalay and Ava, though closer
+as the crow flies than the downriver towns ofPokokku and Magway, were outside the
+effective limits ofthe kingdom. The precolonial state also skirted the north-south PeguYoma range ofmodest but rugged hills that bisected the rice plain. These hills remained
+effectively outside state control in the precolonial period, in much ofthe colonial
+period, and in independent Burma, where they were the redoubt of communist and
+Karen rebels until 1975. It is a striking example of how even relatively modest changes
+in the friction ofterrain can impede state control.
+54 STATE SPACE
+locating a route of march through territory sufficiently rich in grain, draft
+animals, carts, and potential recruits for the army to sustain itself. .
+Thus marshes, swamps, and, especially, hilly areas, though they might
+be quite close to the court center, were generally not a part of "political, directly administered Burma."27 Such hills and marshes were sparsely populated and, except in the case ofa substantial plateau suitable for'irrigated rice,
+their population practiced a form of mixed cultivation (dispersed swiddens
+for hill rice, root crops, foraging, and hunting) that was difficult to assess,
+let alone appropriate. Areas of this kind might have a tributary alliance with
+the court specifying the periodic renewal of oaths and the exchange of valuable goods, but they remained generally outside the direct political control
+of court officials. As a rule ofthumb, hilly areas above three hundred meters
+in elevation were not a part of "Burma" proper. We must therefore consider
+precolonial Burma as a flatland phenomenon, rarely venturing out of its
+irrigation-adapted ecological niche. As Braudel and Paul Wheatley noted in
+general, political control sweeps readily across a flat terrain. Once it confronts
+the friction ofdistance, abrupt changes in altitude, ruggedness ofterrain, and
+the political obstacle of population dispersion and mixed cultivation, it runs
+out of political breath.
+Modern concepts ofsovereignty make little sense in this setting. Rather
+than being visualized as a sharply delineated, contiguous territory following
+the mapmaking conventions for modern states, "Burma" is better seen as a
+horizontal slice through the topography, taking in most areas suitable for wet
+rice below three hmldred meters and within reach ofthe court.28 .
+Imagine a map constructed along these lines, designed to represent relative degrees of potential sovereignty and cultural influence. One way of visu-
+STATE SPACE 57
+alizing how the friction ofdistance might work is to imagine yourself holding
+a rigid map on which altitudes were represented by the physical relief ofthe
+map itself. Further, let's imagine that the location of each rice-growing core
+is marked by a reservoir of red· paint filled to the very brim. The size of the
+reservoir of paint would be proportional to the size of the wet-rice core and
+hence the population it might accommodate. Now visualize tilting this map,
+now in one direction, now in another, successively. The paint as it spilled
+from each reservoir would flow first along level ground and along the lowland
+water courses. As you increased the angle at which the map was tilted, the
+red paint would flow slowly or abruptly, depending on the steepness of the
+terrain, to somewhat higher elevations.
+The angle at which you had to tilt the map to reach particular areas
+would represent, very roughly, the degree ofdifficulty the state would face in
+trying to extend its control that far. Ifwe assume that the intensity ofthe red
+fades both in proportion to the distance it has traveled and the altitude it has
+attained, we have an approximation, again very roughly, of the diminishing
+influence and control or, alternatively, the relative cost of establishing direct
+political control in such areas. At higher elevations~' the red would give way
+to white; if the terrain there was both steep and high, the transition would
+be quite abrupt. From above, depending on the number of hilly areas near
+. the court center, this depiction ofsovereignty would reveal a number of irregular white spots against a dark or pale red background. The population
+that inhabited the white blotches, although it might often be in a tributary
+relation to the court center, was rarely if ever directly ruled. If political conMap 6. Minbu Kharuin (K'a yain) and Kyaukse irrigation works: These two main
+irrigation zones were the rice basket of precolonial states in upper Burma. The Minbu
+Kharuin irrigation works considerably predate the Pagan kingdom's rise in the ninth
+century CEo These two rice cores formed the repository of manpower arid grain
+necessary to state formation and its inevitable accompaniment, warfare. (The term
+k'd yain-Ql~8-often transliterated kharuin, means "district" and connotes a walled
+town, as in the famous "nine K'a yain" making up classical Kyaukse. Ii is the equivalent
+in most respects ofthe Shan term main-~8:-orthe Thai muang.) Outside these
+two zones, on the plain, there was rain-fed, arable land, but the yields were neither as
+reliable nor as bounteous as those from the irrigated lands. In the north salient ofthe
+Pegu Yoma-Mount Popa and the elevated hills extending from it-population and
+agricultural production were even sparser. And the population and produce present
+were difficult to appropriate.
+58 STATE SPACE
+trol weakened suddenly before the daunting hills, cultural influence weakened as well. Language, settlement patterns, kinship structure, ethnic selfidentification, and subsistence practices in the hills were distinctly different
+from those in the valleys. For the most part, hill peoples did not follow valley
+religions. Whereas the valley Burmans and Thais were Theravada Buddhists,
+hill peoples were, with some notable exceptions, animist and, in the twentieth
+century, Christians.
+The color scheme of this fantasy friction-of-distance map would also
+offer a rough and ready guide to patterns of cultural and commercial, but not
+political, integration. Where the red color spreads with the least resistance,
+along river courses and flat plains, there one is .likely to find more homogeneity in religious practices, language dialects, and social organization as
+well. Abrupt cultural and religious changes are likely to occur at the same
+places where there is, as with a mountain range, an abrupt incrt:ase in the friction ofdistance. Ifthe map could also show, like a time-lapse photograph, the
+volume ofhuman and commercial traffic across a space as well as the relative
+ease of movement, we wOilld have an even better proxy for the likelihood of
+social and cultural integration.29
+Our metaphorical map, like any map, though it serves to foreground
+the relationships we wish to highlight, obscures others. It cannot easily account, in these terms, for the friction ofdistance represented, say, by swamps,
+marshes, malarial zones, mangrove coasts, and thick vegetation. Another caution concerns the "pot of paint" at the state core. It is purely hypothetical;
+it represents the plausible reach of influence of a vigorous, ambitious state
+core under the most favorable conditions. Few state cores even came close to
+realizing this degree ofsway over their hinterlands.
+None ofthese state cores, large or small, had the terrain to itself. Each
+existed as one unit among a galaxy ofwaxing and waning contending centers.
+Before colonial domination and the codification ofthe modern territorial state
+vastly simplified the terrain, the sheer numbers ofstate centers, mostly Lilliputian, was bewildering. Leach was not exaggerating when he noted that
+"practically every substantial township in 'Burma' claims a history of havin~
+been at one time or another the capital of a 'kingdom' the alleged frontiers of
+which are at once·both grandiose and improbable."30
+How might we represent, again schematically, this plurality of state
+centers? One alternative is to invoke the Sanskritic term mandala ("circle of
+kings"), much used in Southeast Asia, in which the influence ofa ruler; often
+claiming divine lineage, emanates from a court center, almost always located
+STATE SPACE 59
+on a rice plain, out into the surrounding countryside. In theory, he rules over
+lesser kings and chiefs who recognize his claim to spiritual and temporal authority. The anachronistic metaphor of a light bulb with varying degrees of
+illumination to represent the charisma and sway of a ruler, first suggested by
+Benedict Anderson, captured two essential features ofmandala-style political
+centers.3! Its dimming suggested the gradual diminution ofpower, both spiritual and temporal, with distance from the center, and its diffuse glow avoided
+any modern assumption of "hard" boundaries within which 100 percent sovereignty prevailed and beyond which it disappeared altogether.
+In figure I I attempt to depict some ofthe striking complexities ofsovereignty in a plural mandala system. In order to do so, I have represented
+a number of mandala (negara,. muang, main, k'it yain) by fixed circles with
+power concentrated at the center and fading gradually to zero at the outer
+circumference. This requires us, for the moment, to overlook the massive
+influence of terrain. We assume, in effect, a plain as flat as a pancake. Burmese authorities in the seventeenth century also made such simplifying assumptions in their own territorial order: a province was imagined as a circle
+and specified to have an administrative radius of exactly one hundred tz'ang
+(one tiang equals 3'14 kilometers), a big town a radius often tiang, a medium
+town five tiang, and a village two and a halftiang.32 The reader should imagine how geographical irregularities-say, a swamp or rugged terrain-would
+truncate these circular shapes or how a navigable river might extend their
+reach along the waterway. More egregious, still, the very fixity of the representation of space completely ignores the radical temporal instability of the
+system: the fact that "centers ofspiritual authority and political power shifted
+endlessly."33 The reader should rather imagine these centers as sources of
+light thai blaze, go faint, and are in time extinguished altogether, while new
+sources oflight, points of power, suddenly appear and glow brighter.
+Each circle represents a kingdom; some are smaller, others are larger,
+but the power of each recedes as one moves to the periphery, as represented
+by the diminishing density oficons within each mandala. The purpos·e ofthis
+rather facile graphic is merely to illustrate some ofthe complexities of power,
+territory, and sovereignty in precolonial mainland Southeast Asia, worked
+out in considerably more detail by Thongchai WinichakuP4 In theory, the
+lands within a mandala's sway provided an annual tribute (which might be reciprocated by a gift ofequal or greater value) and were obliged to send troops,
+. carts, draft animals, food, and other supplies when required. And yet, as the
+graphic indicates, many areas fell within the ambit ofmore than one overlord.
+60 STATE SPACE
+I. Schema ofmandalas as fields of power
+Where dual sovereignty, as in the area D / A, was located at the periphery of
+both kingdoms, it might well represent a case of mutually canceling, weak
+sovereignty, affording local chiefs and their following great autonomy in this
+buffer area. Where it affected much of the kingdom, as in B/A or A/C, it
+might be the occasion of competing exactions and/or punitive raids by the
+center on noncompliant, disloyal villages. Many hill peoples and pet1:y chieftaincies strategically manipulated the situation of dual sovereignty, quietly
+sending tributary missions to two overlords and representing themselves to
+STATE SPACE 61
+their own tributaries as independent.35 Calculations oftribute were not an allor-nothing affair, and the endless strategic choices of what to send, when to
+send it, when to delay, when to withhold manpower and supplies were at the
+very center ofthis petty statecraft.
+Outside the central core of a kingdom, dual or multiple sovereignty or,
+especially at higher elevations, no sovereignty, was less an anomaly than the
+norm. Thus Chaing Khaeng, a small town near the crtrrent borders of Laos,
+Burma, and China, was tributary to Chiang Mai and Nan (in turn, tributary
+to Siam) and to Chiang Tung/Keng Tung (in turn, tributary to Burma). The
+situation was common enough that small kingdoms were often identified as
+"under two lords" or "under three lords" in the Thai language and its Lao
+dialect, and a "two-headed bird" in the case of nineteenth-century Cambodia's tributary relationship to both Siam and Dai Nan (Vietnam).36
+Unambiguous, unitary sovereignty, ofthe kind that is normative for the
+twentieth-century nation-state, was rare outside a handful ofsubstantial ricegrowing cores, whose states were, themselves, prone to collapse. Beyond such
+zones, sovereignty was ambiguous, plural, shifting, and often void altogether.
+Cultural, linguistic, and ethnic affiliations were, likewise, ambiguous, plural,
+and shifting. If we add to this observation what we understand about the
+friction ofterrain and altitude in projecting political power, we can begin to
+appreciate the degree to which much ofthe population, and most especially
+the hill peoples, were, though never untouched by the court centers of the
+region, hardly under their thumb.
+Even the most robust kingdom, however, shrank virtually to the ramparts ofits palace walls once the monsoon rains began in earnest. The Southeast Asian state, in its precolonial mandala form, its colonial guise, and, until
+very recently, as a nation-state, was a radically seasonal phenomenon. On the
+ma~nland, roughly from May through October, the rains made the roads impassable. The traditional period for military campaigns in Burma was from
+November to February; it was too hot to fight in March and April, and from
+May through much of October it was too rainy.37 Not only were ar'mies and
+tax collectors unable to move far in any force, but travel and trade were reduced to a trivial proportion of their dry-season volume. To visualize what
+this meant, we would have to consider our mandala map as a dry-season representation. For the rainy season, we would have to shrink each kingdom to
+something like a quarter to an eighth of its size, depending on the terrain.38
+. As if some semiannual flood. tide virtually marooned the state as the rains
+began and then released its watery grip when they stopped, state space and
+62 STATE SPACE
+nonstate space traded places with meteorological regularity. A hymn ofpraise
+to a fourteenth-century Javanese ruler notes the periodicity of rule: "Every
+time at the end of the cold season [when it is quite dry] he sets out to roam
+through the countryside. . . . He shows the flag especially in remote areas.
+... He displays the splendor of his court.... He receives homage from all
+and sundry, collects tribute, visits village elders, checks land registers and
+examines public utilities such as ferries, bridges and roads."39 Subjects knew
+roughly when to expect their ruler. They also knew roughly when to expect
+armies, press-gangs, military requisitions, and the destruction of war. War,
+like fire, was a dry-season phenomenon. Military campaigns, such as the several invasions ofSiam by the Burmese, always began after the end ofthe rainy
+season, when the tracks were again passable and the crops ripening.40 Any
+thorough examination oftraditional state-making would have to give almost
+as large a place to weather as to pure geography.
+Colonial regimes, though they worked mightily to construct all-weather
+roads and bridges, were thwarted in much the same way as the indigenous
+states they replaced. In the long, arduous campaign to occupy upper Burma,
+the progress made by colonial troops (mostly from India) in the dry season
+was often undone by the rains and, it seems, by the diseases ofthe wet season
+as well. An account of the effort in 1885 to clear Minbu, in upper Burma,
+of rebels and bandits, revealed that the rains forced a withdrawal of British
+troops: "And by the end ofAugust the whole ofthe western part ofthe district
+was in the hands ofthe rebels and nothing remained to us but a narrow strip
+along the river-bank. The rains and the deadly season which succeeds them
+in the water-logged country at the foot of the Yoma [Pegu-Yoma mountain
+range] . > • prevented extended operations from being undertaken before the
+end of the year [again the dry season]."41 In the steep, mountainous terrain
+along the Thai border where the Burmese army today fights a war without
+mercy against its ethnic adversaries, the rainy season remains a major handicap to regular armed forces. The typical offensive "window" for Burmese
+troops has been exactly that ofthe former kings ofPagan and Ava: November
+through February. Helicopters, forward bases, and new communications gear
+have allowed the regime to mount, for the first time, wet-season offensives.
+Nevertheless, the capture ofthe last major Karen base on Burmese territory
+took place on January 10, 1995, just as the earlier pattern ofseasonal warfare
+would have dictated.
+For those wishing to keep the state at arm's length, inaccessible mountain redoubts constituted a strategic resource. A determined state might
+STATE SPACE 63
+mount a punitive ~xpedition, bur?ing houses and aboveground crops, but
+long-ter.m occupatIOn was beyond Its reach. Unless it had hill allies a hostile
+populatI?n need only wait for the rains, when supply lines broke 'down (or
+were eaSIer to .cut) and ~he garrison was faced with starvation or retreat.42
+Thus t~e p.hyslcal, coerCIve presence ofthe state in the remotest, hilly areas
+was epIsodIC, often to the vanishing point. Such areas represented a reliable
+zone ofrefuge for those who lived there or who chose to go there.

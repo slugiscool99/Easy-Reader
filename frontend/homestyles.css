@@ -1,0 +1,46 @@
+.homeHeader{
+	top:0px;
+	text-align:center;
+	height:150px;
+}
+
+.textInput{
+	width: 50%;
+	max-width: 800px;
+	height: 400px;
+	margin-top: 16px;
+	padding: 8px;
+	font: normal 17px  "Source Sans Pro",sans-serif-condensed;
+	border: 3px dashed #e7e7e7;
+	border-radius: 4px;
+
+}
+
+
+.goButton{
+	min-width: 280px;
+	border-radius: 4px;
+	background: #67bd2e;
+	border-bottom: 2px solid #519424;
+	color: #fff;
+	height: 56px;
+	font-weight: bold;
+	font-size: 32px;
+}
+
+.goButton:hover{
+	background: #519424;
+}
+
+.button{
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.12);
+    cursor: pointer;
+    outline: 0 !important;
+    padding: 0 45px;
+    text-align: center;
+    text-decoration: none !important;
+    transition: all 0.2s ease-out;
+
+.button:hover{
+	box-shadow: 0 3px 6px 0 rgba(0,0,0,0.2);
+}

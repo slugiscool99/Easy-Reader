@@ -1,0 +1,5 @@
+-Run through, and compare to wikipedia ariticles
+-Find articles with highest similarity (term frequency) 
+
+-TF/IDF to find imporant words
+-Find entities
